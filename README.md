@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nikhil;Computer+Science+Student;Java+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;LeetCode+Problem+Solver;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
 <h3 align="center">Computer Science Student | Java Developer | Full Stack Learner | Data Analytics Enthusiast</h3>
 
 <p align="center">
