@@ -89,3 +89,35 @@
 <img src="https://komarev.com/ghpvc/?username=Nick-0-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+# LocalMart
+
+## 📌 Overview
+A hyperlocal marketplace connecting buyers and sellers.
+
+## 🚀 Features
+- User Authentication
+- Product Listings
+- Search & Filter
+- Responsive Design
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+## 📷 Screenshots
+
+(Add screenshots here)
+
+## 🚀 Live Demo
+
+(Add Vercel link)
+
+## 📦 Installation
+
+git clone ...
+
+npm install
+
+npm start
