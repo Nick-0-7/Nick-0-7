@@ -55,3 +55,37 @@
 </a>
 
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nick-0-7&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nick-0-7&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nick-0-7&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
