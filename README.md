@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/banner.png" alt="Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Nikhil;Computer+Science+Student;Java+Developer;Full+Stack+Developer;Software+Engineer+Aspirant;LeetCode+Problem+Solver;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 <h3 align="center">Computer Science Student | Java Developer | Full Stack Learner | Data Analytics Enthusiast</h3>
