@@ -97,6 +97,17 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-trophies.svg"
+    width="900"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
 
 # 💻 LeetCode Stats
 
