@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-stats:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
@@ -16,32 +16,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create assets directory
-        run: mkdir -p assets
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.PAT_1 }}
 
-      - name: Download GitHub Stats
-        run: |
-          curl -fL --retry 3 \
-          "https://github-readme-stats-nick-0-7s-projects.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true" \
-          -o assets/github-stats.svg
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.PAT_1 }}
 
-      - name: Download Top Languages
-        run: |
-          curl -fL --retry 3 \
-          "https://github-readme-stats-nick-0-7s-projects.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true" \
-          -o assets/top-langs.svg
-
-      - name: Verify SVG files
-        run: |
-          head -n 1 assets/github-stats.svg
-          head -n 1 assets/top-langs.svg
-          file assets/github-stats.svg
-          file assets/top-langs.svg
-
-      - name: Commit updated stats
+      - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-langs.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+          git add assets/*.svg
+          git commit -m "chore: update GitHub stats" || exit 0
           git push
