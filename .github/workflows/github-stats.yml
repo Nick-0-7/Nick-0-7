@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true
+          options: username=Nick-0-7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: assets/top-langs.svg
           token: ${{ secrets.PAT_1 }}
 
@@ -36,6 +36,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git commit -m "chore: update GitHub stats" || exit 0
+          git add assets/github-stats.svg assets/top-langs.svg
+          git commit -m "Update GitHub stats" || exit 0
           git push
