@@ -59,11 +59,11 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170"
+       src="https://github-readme-stats-nick-0-7s-projects.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats-nick-0-7s-projects.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats-nick-0-7s-projects.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170"
+       src="https://github-readme-stats-nick-0-7s-projects.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 | 🤖 **AI Cyber Shield** | AI-powered phishing & scam detection platform | *Coming Soon* |
 | 💼 **Portfolio Website** | Personal portfolio showcasing projects | *Coming Soon* |
 | ☕ **Java DSA** | Java solutions for LeetCode & DSA | https://github.com/Nick-0-7/LEETCODE |
-| 📊 **Power BI Dashboard** | Interactive dashboards and analytics | *Coming Soon* |
+| 📊 **Power BI Dashboard** | Interactive dashboards and analytics | https://github.com/Nick-0-7/Power-BI |
 
 ---
 
