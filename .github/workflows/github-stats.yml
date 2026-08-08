@@ -16,25 +16,32 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create stats directory
+      - name: Create assets directory
         run: mkdir -p assets
 
       - name: Download GitHub Stats
         run: |
-          curl -L "https://github-readme-stats-nick-0-7s-projects.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true" \
-            -o assets/github-stats.svg
+          curl -fL --retry 3 \
+          "https://github-readme-stats-nick-0-7s-projects.vercel.app/api?username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true" \
+          -o assets/github-stats.svg
 
       - name: Download Top Languages
         run: |
-          curl -L "https://github-readme-stats-nick-0-7s-projects.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true" \
-            -o assets/top-langs.svg
+          curl -fL --retry 3 \
+          "https://github-readme-stats-nick-0-7s-projects.vercel.app/api/top-langs/?username=Nick-0-7&layout=compact&theme=tokyonight&hide_border=true" \
+          -o assets/top-langs.svg
+
+      - name: Verify SVG files
+        run: |
+          head -n 1 assets/github-stats.svg
+          head -n 1 assets/top-langs.svg
+          file assets/github-stats.svg
+          file assets/top-langs.svg
 
       - name: Commit updated stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add assets/github-stats.svg assets/top-langs.svg
-
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
           git push
