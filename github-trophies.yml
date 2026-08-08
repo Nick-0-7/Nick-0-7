@@ -1,0 +1,32 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Nick-0-7
+          output_path: assets/github-trophies.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Commit trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-trophies.svg
+          git commit -m "chore: update GitHub trophies" || exit 0
+          git push
