@@ -109,10 +109,22 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 ---
 
-# 💻 LeetCode Stats
+# 🧠 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/NikhilMkutre?theme=dark&font=Poppins&ext=contest"/>
+  <a href="https://leetcode.com/u/NikhilMkutre/">
+    <img
+      src="https://leetcard.jacoblin.cool/NikhilMkutre?theme=dark&font=Karma&ext=contest"
+      width="500"
+      alt="Nikhil Kutre LeetCode Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>🏆 Contest Rating: 1480</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>🎯 Contests Attended: 1</b>
 </p>
 
 ---
