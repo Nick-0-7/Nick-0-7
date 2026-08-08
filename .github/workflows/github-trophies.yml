@@ -20,22 +20,15 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Nick-0-7
-          output_path: assets/github-trophies.svg
+          file: assets/github-trophies.svg
           token: ${{ secrets.PAT_1 }}
-
-         - name: Find generated trophy
-        run: |
-          echo "Files generated:"
-          find . -type f -name "*.svg" -print
-
-      - name: Move trophy to assets
-        run: |
-          mkdir -p assets
-          find . -type f -name "github-trophies.svg" -exec cp {} assets/github-trophies.svg \; || true
+          theme: onedark
+          max-rows: 1
 
       - name: Verify trophy file
         run: |
-          ls -lh assets/
+          echo "Checking generated trophy..."
+          ls -lh assets/github-trophies.svg
           test -f assets/github-trophies.svg
 
       - name: Commit trophy
