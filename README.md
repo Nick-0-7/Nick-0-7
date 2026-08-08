@@ -55,6 +55,23 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 </p>
 
 ---
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    height="170"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg"
+    alt="Top Languages"
+  />
+</p>
+
+---
 
 # 🔥 GitHub Streak
 
