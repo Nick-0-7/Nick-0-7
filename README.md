@@ -131,19 +131,19 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 # 🚀 Featured Projects
 
-| Project | Description | Repository |
-|---------|-------------|------------|
-| 🛒 **LocalMart** | Hyperlocal marketplace connecting buyers and sellers | *Coming Soon* |
-| 🤖 **AI Cyber Shield** | AI-powered phishing & scam detection platform | *Coming Soon* |
-| 💼 **Portfolio Website** | Personal portfolio showcasing projects | *Coming Soon* |
-| ☕ **Java DSA** | Java solutions for LeetCode & DSA | https://github.com/Nick-0-7/LEETCODE |
-| 📊 **Power BI Dashboard** | Interactive dashboards and analytics | https://github.com/Nick-0-7/Power-BI |
+| Project | Description | Links |
+|---------|-------------|-------|
+| ✅ **Habit Tracker** | Visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics. | [GitHub](https://github.com/Nick-0-7/Habit-Tracker) • [Live Demo](https://habit-tracker-127a9.firebaseapp.com/) |
+| 🛒 **LocalMart** | Hyperlocal marketplace connecting buyers and sellers. | [GitHub](https://github.com/Nick-0-7/Local_Mart) • [Live Demo](https://local-mart-liard.vercel.app/) |
+| 🤖 **AI Cyber Shield** | AI-powered phishing and scam detection platform. | Coming Soon |
+| 💼 **Portfolio Website** | Personal portfolio showcasing projects and skills. | Coming Soon |
+| ☕ **Java DSA** | Java solutions for LeetCode and DSA practice. | [GitHub](https://github.com/Nick-0-7/LEETCODE) |
+| 📊 **Power BI Dashboard** | Interactive dashboards and analytics projects. | [GitHub](https://github.com/Nick-0-7/Power-BI) |
 
 ---
 
 # 📚 Currently Learning
 
-- 🌱 Spring Boot
 - 🌐 Backend Development
 - ☁ REST APIs
 - 📚 System Design
