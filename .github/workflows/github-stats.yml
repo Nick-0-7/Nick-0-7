@@ -22,16 +22,14 @@ jobs:
           card: stats
           options: username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true
           path: assets/github-stats.svg
-          token: ${{ secrets.PAT_1 }}
-
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=Nick-0-7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: assets/top-langs.svg
-          token: ${{ secrets.PAT_1 }}
-
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
