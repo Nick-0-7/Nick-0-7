@@ -60,14 +60,14 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
   <tr>
     <td align="center" width="55%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908?v=20260908?v=20260908?v=20260908"
         width="500"
         alt="GitHub Statistics"
       />
     </td>
     <td align="center" width="45%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908"
         width="380"
         alt="Most Used Languages"
       />
