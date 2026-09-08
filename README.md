@@ -92,7 +92,7 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nick-0-7&theme=tokyonight"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-activity.svg?v=20260908"
     width="900"
     alt="GitHub Profile Activity"
   />
