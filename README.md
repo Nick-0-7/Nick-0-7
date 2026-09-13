@@ -210,14 +210,6 @@ My DSA practice focuses on:
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
-    width="500"
-    alt="Most Used Languages"
-  />
-</p>
-
 ---
 
 <p align="center">
