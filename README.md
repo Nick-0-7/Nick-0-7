@@ -77,6 +77,18 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 ---
 
+# 📈 Engineering Metrics
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/engineering-metrics.svg?v=20260913"
+    width="100%"
+    alt="Engineering Metrics"
+  />
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
