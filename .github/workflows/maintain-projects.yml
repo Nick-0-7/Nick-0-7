@@ -240,9 +240,7 @@ jobs:
                       demo_html = (
                           f"""
           &nbsp;•&nbsp;
-          <a href="{safe_homepage}">
-          🌐 Live Demo
-          </a>
+          <a href="{safe_homepage}">🌐 Live Demo</a>
           """
                       )
 
@@ -268,9 +266,7 @@ jobs:
           </p>
 
           <p>
-          <a href="{github_link}">
-          💻 GitHub
-          </a>
+          <a href="{github_link}">💻 GitHub</a>
           {demo_html}
           </p>
 
