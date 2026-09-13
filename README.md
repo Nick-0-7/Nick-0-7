@@ -205,6 +205,17 @@ A hyperlocal marketplace connecting buyers and sellers with product listings, se
 ## 📚 Project Index
 
 <!-- PROJECTS_START -->
+| Repository | Description | Stars | Updated |
+|---|---|---:|---|
+| [Habit-Tracker](https://github.com/Nick-0-7/Habit-Tracker) | No description provided. | ⭐ 1 | 2026-09-04 |
+| [Local_Mart](https://github.com/Nick-0-7/Local_Mart) | No description provided. | ⭐ 1 | 2026-08-08 |
+| [retina-screening](https://github.com/Nick-0-7/retina-screening) | No description provided. | ⭐ 0 | 2026-08-26 |
+| [LEETCODE](https://github.com/Nick-0-7/LEETCODE) | No description provided. | ⭐ 0 | 2026-09-12 |
+| [strawhat](https://github.com/Nick-0-7/strawhat) | No description provided. | ⭐ 0 | 2026-08-22 |
+| [Portfolio](https://github.com/Nick-0-7/Portfolio) | No description provided. | ⭐ 0 | 2026-08-06 |
+| [DF-Youtube](https://github.com/Nick-0-7/DF-Youtube) | No description provided. | ⭐ 0 | 2026-07-18 |
+| [Power-BI](https://github.com/Nick-0-7/Power-BI) | No description provided. | ⭐ 0 | 2026-02-20 |
+| [web-robo-speaker](https://github.com/Nick-0-7/web-robo-speaker) | A simple web-based text to speech app using Flask | ⭐ 0 | 2026-01-31 |
 <!-- PROJECTS_END -->
 
 ---
