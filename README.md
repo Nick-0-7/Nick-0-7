@@ -238,6 +238,7 @@ My DSA practice focuses on:
 
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -265,9 +266,7 @@ Visual habit-tracking application for building consistency and analyzing daily p
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/Habit-Tracker">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/Habit-Tracker">💻 GitHub</a>
 
 </p>
 
@@ -295,14 +294,10 @@ Hyperlocal marketplace connecting local buyers and sellers through product listi
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/Local_Mart">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/Local_Mart">💻 GitHub</a>
 
 &nbsp;•&nbsp;
-<a href="https://local-mart-liard.vercel.app/">
-🌐 Live Demo
-</a>
+<a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
 
 </p>
 
@@ -333,14 +328,10 @@ AI-based retinal screening project focused on detecting retinal conditions from 
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/retina-screening">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/retina-screening">💻 GitHub</a>
 
 &nbsp;•&nbsp;
-<a href="https://retina-screening.vercel.app">
-🌐 Live Demo
-</a>
+<a href="https://retina-screening.vercel.app">🌐 Live Demo</a>
 
 </p>
 
@@ -368,14 +359,10 @@ Software project exploring practical web development and application building.
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/strawhat">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/strawhat">💻 GitHub</a>
 
 &nbsp;•&nbsp;
-<a href="https://strawhat-hazel.vercel.app">
-🌐 Live Demo
-</a>
+<a href="https://strawhat-hazel.vercel.app">🌐 Live Demo</a>
 
 </p>
 
@@ -406,9 +393,7 @@ Software project and development work.
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/DF-Youtube">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/DF-Youtube">💻 GitHub</a>
 
 </p>
 
@@ -436,9 +421,7 @@ Software project and development work.
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/Power-BI">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/Power-BI">💻 GitHub</a>
 
 </p>
 
@@ -469,14 +452,10 @@ A simple web-based text to speech app using Flask
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/web-robo-speaker">
-💻 GitHub
-</a>
+<a href="https://github.com/Nick-0-7/web-robo-speaker">💻 GitHub</a>
 
 &nbsp;•&nbsp;
-<a href="http://127.0.0.1:5000">
-🌐 Live Demo
-</a>
+<a href="http://127.0.0.1:5000">🌐 Live Demo</a>
 
 </p>
 
@@ -488,6 +467,7 @@ A simple web-based text to speech app using Flask
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 
