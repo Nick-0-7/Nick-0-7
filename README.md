@@ -2,39 +2,55 @@
   <img
     src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/banner.png"
     width="100%"
-    alt="Nikhil Kutre Banner"
+    alt="Nikhil Kutre - Software Engineer Aspirant"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nikhil Kutre</h1>
-
-<h3 align="center">
-Computer Science Engineering Student • Java Developer • Full Stack Learner • Data Analytics Enthusiast
-</h3>
+<h1 align="center">Hi, I'm Nikhil Kutre 👋</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Aspirant;Java+Developer;Full+Stack+Learner;LeetCode+Problem+Solver;Always+Learning+🚀"
-    alt="Typing Animation"
-  />
+  <b>Computer Science Engineering Student • Java Developer • Full Stack Developer in Progress</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nick-0-7">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://leetcode.com/u/NikhilMkutre/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhil-kutre-98322a334">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student focused on building strong software engineering fundamentals and practical development skills.
+I'm a Computer Science Engineering student focused on building strong
+software engineering fundamentals through problem solving and real-world
+projects.
 
-- 💻 Java & Data Structures and Algorithms
-- 🌐 Full Stack & Backend Development
-- 📊 SQL, Power BI & Data Analytics
-- 🚀 Building real-world projects
-- 🧠 Focused on problem-solving and clean code
-- 🎯 Preparing for Software Engineering opportunities
+My primary focus is **Java, Data Structures & Algorithms, backend
+development, and full-stack web applications**, while also exploring
+**SQL, Power BI, and data analytics**.
+
+I enjoy turning ideas into working applications and continuously improving
+my ability to write clean, efficient, and maintainable code.
 
 ---
 
-# 🧩 Engineering Focus
+## 🧩 Engineering Focus
 
 <table>
 <tr>
@@ -66,99 +82,106 @@ I'm a Computer Science Engineering student focused on building strong software e
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,firebase,git,github,vscode"
-    alt="Tech Stack"
+    src="https://skillicons.dev/icons?i=java,python,html,css,js,nodejs,firebase,mysql,git,github,vscode"
+    alt="Technology Stack"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"
     alt="Power BI"
   />
   <img
-    src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+    src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"
     alt="SQL"
   />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Selected Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="55%">
-      <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260913"
-        width="467"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <td align="center" width="45%">
-      <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
-        width="300"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Habit Tracker
+
+A visual habit-tracking application designed to help users build consistency,
+track daily habits, monitor streaks, and understand habit distribution.
+
+**Tech:** HTML • CSS • JavaScript • Chart.js
+
+<a href="https://github.com/Nick-0-7/Habit-Tracker">
+  💻 GitHub
+</a>
+&nbsp;•&nbsp;
+<a href="https://habit-tracker-127a9.firebaseapp.com/">
+  🌐 Live Demo
+</a>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png"
+  width="100%"
+  alt="Habit Tracker"
+/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 LocalMart
+
+A hyperlocal marketplace connecting buyers and sellers with product
+listings, search, filtering, and authentication.
+
+**Tech:** HTML • CSS • JavaScript • Firebase
+
+<a href="https://github.com/Nick-0-7/Local_Mart">
+  💻 GitHub
+</a>
+&nbsp;•&nbsp;
+<a href="https://local-mart-liard.vercel.app/">
+  🌐 Live Demo
+</a>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png"
+  width="100%"
+  alt="LocalMart"
+/>
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-# 📈 Engineering Metrics
+## 🧠 Problem Solving
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/engineering-metrics.svg?v=20260913"
-    width="100%"
-    alt="Engineering Metrics"
-  />
-</p>
+I focus on understanding **why a solution works**, not just increasing the
+number of problems solved.
 
----
+My DSA practice focuses on:
 
-# 📈 GitHub Activity
+- Pattern recognition
+- Brute force → optimized thinking
+- Clean Java implementations
+- Time & space complexity
+- Explaining and defending solutions
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-activity.svg?v=20260913"
-    width="900"
-    alt="GitHub Activity"
-  />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-trophies.svg?v=20260913"
-    width="900"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 🧠 LeetCode
+### LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/NikhilMkutre/">
@@ -172,100 +195,60 @@ I'm a Computer Science Engineering student focused on building strong software e
 
 <p align="center">
   <a href="https://leetcode.com/u/NikhilMkutre/">
-    View my LeetCode Profile →
+    View LeetCode Profile →
   </a>
 </p>
 
 ---
 
-# 🎯 DSA & Problem Solving
+## 📊 GitHub Statistics
 
-> **My goal is not simply to count solved problems — it's to understand patterns, build efficient solutions, and explain my reasoning clearly.**
-
-Currently focusing on:
-
-- 🧠 Pattern recognition
-- 💡 Brute force → optimized approaches
-- 💻 Clean and efficient Java solutions
-- 📊 Time & space complexity
-- 🗣️ Technical explanation and problem-solving
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260913"
+    width="470"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
+    width="300"
+    alt="Most Used Languages"
+  />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 📈 Engineering Metrics
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🧠 Habit Tracker</h3>
-
-<a href="https://habit-tracker-127a9.firebaseapp.com/">
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/engineering-metrics.svg?v=20260913"
     width="100%"
-    alt="Habit Tracker Preview"
+    alt="Engineering Metrics"
   />
-</a>
-
-<p>
-Visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics.
 </p>
-
-<p>
-<b>Tech:</b> HTML • CSS • JavaScript • Chart.js
-</p>
-
-<p>
-<a href="https://github.com/Nick-0-7/Habit-Tracker">💻 GitHub</a>
-&nbsp;•&nbsp;
-<a href="https://habit-tracker-127a9.firebaseapp.com/">🌐 Live Demo</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🛒 LocalMart</h3>
-
-<a href="https://local-mart-liard.vercel.app/">
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png"
-    width="100%"
-    alt="LocalMart Preview"
-  />
-</a>
-
-<p>
-Hyperlocal marketplace connecting buyers and sellers with product listings, search, filtering, and authentication.
-</p>
-
-<p>
-<b>Tech:</b> HTML • CSS • JavaScript • Firebase
-</p>
-
-<p>
-<a href="https://github.com/Nick-0-7/Local_Mart">💻 GitHub</a>
-&nbsp;•&nbsp;
-<a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
-</p>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 📚 Project Index
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 📚 Project Index
 
 <!-- PROJECTS_START -->
 <!-- PROJECTS_END -->
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Connect
 
 <p align="center">
 
@@ -276,6 +259,13 @@ Hyperlocal marketplace connecting buyers and sellers with product listings, sear
   />
 </a>
 
+<a href="https://www.linkedin.com/in/nikhil-kutre-98322a334">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"
+    alt="LinkedIn"
+  />
+</a>
+
 <a href="https://leetcode.com/u/NikhilMkutre/">
   <img
     src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
@@ -283,17 +273,8 @@ Hyperlocal marketplace connecting buyers and sellers with product listings, sear
   />
 </a>
 
-<a href="https://www.linkedin.com/in/nikhil-kutre-98322a334">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"
-    alt="LinkedIn"
-  />
-</a>
-
 </p>
 
----
-
 <p align="center">
-  <i>Building. Learning. Solving. 🚀</i>
+  <i>Building software, solving problems, and learning every day.</i>
 </p>
