@@ -201,7 +201,6 @@ My DSA practice focuses on:
 
 ---
 
-## 📊 GitHub Statistics
 
 <p align="center">
   <img
@@ -218,9 +217,8 @@ My DSA practice focuses on:
     alt="Most Used Languages"
   />
 </p>
----
 
-## 📈 Engineering Metrics
+---
 
 <p align="center">
   <img
