@@ -78,24 +78,6 @@ jobs:
                   "tech": "Python • Machine Learning"
               },
 
-              "LEETCODE": {
-                  "title": "🧠 LeetCode",
-                  "description": (
-                      "Data Structures and Algorithms practice focused "
-                      "on problem solving and optimized Java solutions."
-                  ),
-                  "tech": "Java • DSA • Algorithms"
-              },
-
-              "Portfolio": {
-                  "title": "💼 Portfolio",
-                  "description": (
-                      "Personal developer portfolio showcasing projects, "
-                      "skills, and software engineering work."
-                  ),
-                  "tech": "HTML • CSS • JavaScript"
-              },
-
               "strawhat": {
                   "title": "⚙️ Strawhat",
                   "description": (
@@ -132,9 +114,15 @@ jobs:
 
               page += 1
 
+          # --------------------------------------------------
+          # Excluded repositories
+          # --------------------------------------------------
+
           excluded = {
               username.lower(),
-              "github-readme-streak-stats"
+              "github-readme-streak-stats",
+              "leetcode",
+              "portfolio"
           }
 
           repositories = [
@@ -153,8 +141,6 @@ jobs:
               "Habit-Tracker",
               "Local_Mart",
               "retina-screening",
-              "LEETCODE",
-              "Portfolio",
               "strawhat"
           ]
 
@@ -201,10 +187,7 @@ jobs:
 
               else:
 
-                  title = (
-                      "📦 "
-                      + repo_name
-                  )
+                  title = "📦 " + repo_name
 
                   description = (
                       repo["description"]
@@ -216,9 +199,7 @@ jobs:
                       or "Multiple technologies"
                   )
 
-                  tech = html.escape(
-                      language
-                  )
+                  tech = language
 
               title = html.escape(
                   title,
@@ -241,9 +222,7 @@ jobs:
 
               stars = repo["stargazers_count"]
 
-              homepage = repo.get(
-                  "homepage"
-              )
+              homepage = repo.get("homepage")
 
               demo_html = ""
 
@@ -298,9 +277,7 @@ jobs:
           </td>
           """
 
-              cards.append(
-                  card
-              )
+              cards.append(card)
 
           # --------------------------------------------------
           # Arrange cards in two columns
