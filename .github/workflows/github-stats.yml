@@ -1,28 +1,27 @@
-name: Update GitHub Stats
+name: Update GitHub Statistics
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=Nick-0-7&show_icons=true&theme=tokyonight&hide_border=true
-          path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub Statistics
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_github_statistics.py
+
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -30,10 +29,22 @@ jobs:
           options: username=Nick-0-7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify generated assets
+        run: |
+          test -s assets/github-statistics.svg
+          test -s assets/top-langs.svg
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg assets/top-langs.svg
-          git commit -m "Update GitHub stats" || exit 0
-          git push
+
+          git add assets/github-statistics.svg assets/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update GitHub statistics"
+            git push
+          fi
