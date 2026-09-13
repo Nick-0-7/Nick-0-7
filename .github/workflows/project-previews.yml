@@ -16,6 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Nick-0-7
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -34,7 +44,6 @@ jobs:
         run: |
           cat > capture.js <<'EOF'
           const { chromium } = require("playwright");
-          const fs = require("fs");
 
           const projects = [
             {
@@ -60,9 +69,9 @@ jobs:
               deviceScaleFactor: 1
             });
 
-            const page = await context.newPage();
-
             for (const project of projects) {
+              const page = await context.newPage();
+
               console.log(`Capturing ${project.name}...`);
 
               try {
@@ -84,6 +93,8 @@ jobs:
                 console.error(error.message);
                 process.exitCode = 1;
               }
+
+              await page.close();
             }
 
             await browser.close();
@@ -94,12 +105,14 @@ jobs:
 
           node capture.js
 
-      - name: Verify previews
+      - name: Verify generated assets
         run: |
+          test -s dist/github-contribution-grid-snake.svg
+          test -s dist/github-contribution-grid-snake-dark.svg
           test -s dist/previews/habit-tracker.png
           test -s dist/previews/local-mart.png
 
-      - name: Publish previews
+      - name: Publish generated assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
