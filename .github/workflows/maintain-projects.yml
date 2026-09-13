@@ -21,13 +21,17 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python - <<'PY'
+          import html
           import json
           import os
           import urllib.request
 
           username = "Nick-0-7"
 
-          url = f"https://api.github.com/users/{username}/repos?per_page=100&sort=updated"
+          url = (
+              f"https://api.github.com/users/{username}/repos"
+              "?per_page=100&sort=updated"
+          )
 
           request = urllib.request.Request(
               url,
@@ -46,58 +50,151 @@ jobs:
           }
 
           repos = [
-              r for r in repos
-              if not r["fork"]
-              and not r["archived"]
-              and r["name"].lower() not in excluded
+              repo
+              for repo in repos
+              if not repo["fork"]
+              and not repo["archived"]
+              and repo["name"].lower() not in excluded
           ]
 
           repos.sort(
-              key=lambda r: (
-                  r["stargazers_count"],
-                  r["forks_count"],
-                  r["updated_at"]
+              key=lambda repo: (
+                  repo["stargazers_count"],
+                  repo["forks_count"],
+                  repo["updated_at"]
               ),
               reverse=True
           )
 
           repos = repos[:10]
 
-          rows = []
+          cards = []
 
           for repo in repos:
-              name = repo["name"]
-              description = repo["description"] or "No description provided."
+              name = html.escape(repo["name"])
+              description = html.escape(
+                  repo["description"]
+                  or "Project description coming soon."
+              )
+
+              language = html.escape(
+                  repo["language"]
+                  or "Multiple technologies"
+              )
+
               stars = repo["stargazers_count"]
+              forks = repo["forks_count"]
               updated = repo["updated_at"][:10]
-              link = repo["html_url"]
+
+              github_link = repo["html_url"]
+              homepage = repo.get("homepage")
+
+              demo_link = ""
+
+              if homepage:
+                  demo_link = (
+                      f'<a href="{html.escape(homepage)}">'
+                      f'🌐 Live Demo'
+                      f'</a>'
+                  )
+
+              card = f"""
+          <td width="50%" valign="top">
+
+          <h3>📦 <a href="{github_link}">{name}</a></h3>
+
+          <p>{description}</p>
+
+          <p>
+          <b>Tech:</b> {language}
+          </p>
+
+          <p>
+          ⭐ {stars}
+          &nbsp; • &nbsp;
+          🍴 {forks}
+          &nbsp; • &nbsp;
+          📅 {updated}
+          </p>
+
+          <p>
+          <a href="{github_link}">
+          💻 GitHub
+          </a>
+          """
+
+              if demo_link:
+                  card += f"""
+          &nbsp; • &nbsp;
+          {demo_link}
+          """
+
+              card += """
+          </p>
+
+          </td>
+          """
+
+              cards.append(card)
+
+          rows = []
+
+          for index in range(0, len(cards), 2):
+              left = cards[index]
+              right = cards[index + 1] if index + 1 < len(cards) else ""
 
               rows.append(
-                  f"| [{name}]({link}) | {description} | ⭐ {stars} | {updated} |"
+                  f"""
+          <tr>
+          {left}
+          {right}
+          </tr>
+          """
               )
 
           start = "<!-- PROJECTS_START -->"
           end = "<!-- PROJECTS_END -->"
 
-          with open("README.md", "r", encoding="utf-8") as f:
-              readme = f.read()
+          with open(
+              "README.md",
+              "r",
+              encoding="utf-8"
+          ) as file:
+              readme = file.read()
 
-          section = f"""\
+          section = f"""
           {start}
-          | Repository | Description | Stars | Updated |
-          |---|---|---:|---|
-          {chr(10).join(rows)}
-          {end}"""
+
+          <table>
+          {''.join(rows)}
+          </table>
+
+          {end}
+          """
 
           if start in readme and end in readme:
-              before = readme.split(start)[0]
+              before = readme.split(start, 1)[0]
               after = readme.split(end, 1)[1]
-              readme = before + section + after
-          else:
-              readme += "\n\n## 📚 Project Index\n\n" + section + "\n"
 
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(readme)
+              readme = (
+                  before
+                  + section
+                  + after
+              )
+          else:
+              readme += (
+                  "\n\n"
+                  "## 📚 Project Index\n\n"
+                  + section
+                  + "\n"
+              )
+
+          with open(
+              "README.md",
+              "w",
+              encoding="utf-8"
+          ) as file:
+              file.write(readme)
           PY
 
       - name: Commit changes
@@ -110,6 +207,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update project index"
+            git commit -m "chore: redesign project index"
             git push
           fi
