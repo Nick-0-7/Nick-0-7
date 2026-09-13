@@ -162,18 +162,43 @@ counting the number of problems solved.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| ✅ **Habit Tracker** | Visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics. | [GitHub](https://github.com/Nick-0-7/Habit-Tracker) • [Live Demo](https://habit-tracker-127a9.firebaseapp.com/) |
-| 🛒 **LocalMart** | Hyperlocal marketplace connecting buyers and sellers. | [GitHub](https://github.com/Nick-0-7/Local_Mart) • [Live Demo](https://local-mart-liard.vercel.app/) |
-| 🤖 **AI Cyber Shield** | AI-powered phishing and scam detection platform. | Coming Soon |
-| 💼 **Portfolio Website** | Personal portfolio showcasing projects and skills. | Coming Soon |
-| ☕ **Java DSA** | Java solutions for LeetCode and DSA practice. | [GitHub](https://github.com/Nick-0-7/LEETCODE) |
-| 📊 **Power BI Dashboard** | Interactive dashboards and analytics projects. | [GitHub](https://github.com/Nick-0-7/Power-BI) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧠 Habit Tracker
+
+<a href="https://habit-tracker-127a9.firebaseapp.com/">
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png" width="100%" alt="Habit Tracker Preview">
+</a>
+
+A visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics.
+
+**Tech:** HTML • CSS • JavaScript • Chart.js
+
+[💻 GitHub](https://github.com/Nick-0-7/Habit-Tracker) • [🌐 Live Demo](https://habit-tracker-127a9.firebaseapp.com/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 LocalMart
+
+<a href="https://local-mart-liard.vercel.app/">
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png" width="100%" alt="LocalMart Preview">
+</a>
+
+A hyperlocal marketplace connecting buyers and sellers with product listings, search, filtering, and authentication.
+
+**Tech:** HTML • CSS • JavaScript • Firebase
+
+[💻 GitHub](https://github.com/Nick-0-7/Local_Mart) • [🌐 Live Demo](https://local-mart-liard.vercel.app/)
+
+</td>
+</tr>
+</table>---
 
 # 📚 Currently Learning
 
