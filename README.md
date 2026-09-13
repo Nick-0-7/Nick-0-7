@@ -236,6 +236,7 @@ My DSA practice focuses on:
 ## 📚 Project Index
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -244,20 +245,22 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/Habit-Tracker">Habit-Tracker</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/Habit-Tracker">
+🧠 Habit Tracker
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> JavaScript
+Visual habit-tracking application for building consistency and analyzing daily progress.
+</p>
+
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript • Chart.js
 </p>
 
 <p>
 ⭐ 1
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-09-04
 </p>
 
 <p>
@@ -272,20 +275,22 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/Local_Mart">Local_Mart</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/Local_Mart">
+🛒 LocalMart
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> HTML
+Hyperlocal marketplace connecting local buyers and sellers through product listings and search.
+</p>
+
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript • Firebase
 </p>
 
 <p>
 ⭐ 1
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-08-08
 </p>
 
 <p>
@@ -293,8 +298,10 @@ My DSA practice focuses on:
 💻 GitHub
 </a>
 
-&nbsp; • &nbsp;
-<a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
+&nbsp;•&nbsp;
+<a href="https://local-mart-liard.vercel.app/">
+🌐 Live Demo
+</a>
 
 </p>
 
@@ -306,20 +313,22 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/retina-screening">retina-screening</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/retina-screening">
+🩺 Retina Screening
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> JavaScript
+AI-based retinal screening project focused on detecting retinal conditions from medical images.
+</p>
+
+<p>
+<b>Tech:</b> Python • Machine Learning
 </p>
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 1
-&nbsp; • &nbsp;
-📅 2026-08-26
 </p>
 
 <p>
@@ -327,8 +336,10 @@ My DSA practice focuses on:
 💻 GitHub
 </a>
 
-&nbsp; • &nbsp;
-<a href="https://retina-screening.vercel.app">🌐 Live Demo</a>
+&nbsp;•&nbsp;
+<a href="https://retina-screening.vercel.app">
+🌐 Live Demo
+</a>
 
 </p>
 
@@ -337,20 +348,22 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/LEETCODE">LEETCODE</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/LEETCODE">
+🧠 LeetCode
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> Java
+Data Structures and Algorithms practice focused on problem solving and optimized Java solutions.
+</p>
+
+<p>
+<b>Tech:</b> Java • DSA • Algorithms
 </p>
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-09-12
 </p>
 
 <p>
@@ -368,29 +381,28 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/strawhat">strawhat</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/Portfolio">
+💼 Portfolio
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> JavaScript
+Personal developer portfolio showcasing projects, skills, and software engineering work.
+</p>
+
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript
 </p>
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-08-22
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/strawhat">
+<a href="https://github.com/Nick-0-7/Portfolio">
 💻 GitHub
 </a>
-
-&nbsp; • &nbsp;
-<a href="https://strawhat-hazel.vercel.app">🌐 Live Demo</a>
 
 </p>
 
@@ -399,25 +411,32 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/Portfolio">Portfolio</a></h3>
-
-<p>Project description coming soon.</p>
+<h3>
+<a href="https://github.com/Nick-0-7/strawhat">
+⚙️ Strawhat
+</a>
+</h3>
 
 <p>
-<b>Tech:</b> HTML
+Software project exploring practical web development and application building.
+</p>
+
+<p>
+<b>Tech:</b> JavaScript
 </p>
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-08-06
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/Portfolio">
+<a href="https://github.com/Nick-0-7/strawhat">
 💻 GitHub
+</a>
+
+&nbsp;•&nbsp;
+<a href="https://strawhat-hazel.vercel.app">
+🌐 Live Demo
 </a>
 
 </p>
@@ -430,9 +449,15 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/DF-Youtube">DF-Youtube</a></h3>
+<h3>
+<a href="https://github.com/Nick-0-7/DF-Youtube">
+📦 DF-Youtube
+</a>
+</h3>
 
-<p>Project description coming soon.</p>
+<p>
+Software project and development work.
+</p>
 
 <p>
 <b>Tech:</b> HTML
@@ -440,10 +465,6 @@ My DSA practice focuses on:
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-07-18
 </p>
 
 <p>
@@ -458,9 +479,15 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/Power-BI">Power-BI</a></h3>
+<h3>
+<a href="https://github.com/Nick-0-7/Power-BI">
+📦 Power-BI
+</a>
+</h3>
 
-<p>Project description coming soon.</p>
+<p>
+Software project and development work.
+</p>
 
 <p>
 <b>Tech:</b> Multiple technologies
@@ -468,10 +495,6 @@ My DSA practice focuses on:
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-02-20
 </p>
 
 <p>
@@ -489,9 +512,15 @@ My DSA practice focuses on:
 
 <td width="50%" valign="top">
 
-<h3>📦 <a href="https://github.com/Nick-0-7/web-robo-speaker">web-robo-speaker</a></h3>
+<h3>
+<a href="https://github.com/Nick-0-7/web-robo-speaker">
+📦 web-robo-speaker
+</a>
+</h3>
 
-<p>A simple web-based text to speech app using Flask</p>
+<p>
+A simple web-based text to speech app using Flask
+</p>
 
 <p>
 <b>Tech:</b> HTML
@@ -499,10 +528,6 @@ My DSA practice focuses on:
 
 <p>
 ⭐ 0
-&nbsp; • &nbsp;
-🍴 0
-&nbsp; • &nbsp;
-📅 2026-01-31
 </p>
 
 <p>
@@ -510,8 +535,10 @@ My DSA practice focuses on:
 💻 GitHub
 </a>
 
-&nbsp; • &nbsp;
-<a href="http://127.0.0.1:5000">🌐 Live Demo</a>
+&nbsp;•&nbsp;
+<a href="http://127.0.0.1:5000">
+🌐 Live Demo
+</a>
 
 </p>
 
@@ -523,6 +550,7 @@ My DSA practice focuses on:
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 ---
