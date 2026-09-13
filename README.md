@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/banner.png"
     width="100%"
-    alt="Banner"
+    alt="Nikhil Kutre Banner"
   />
 </p>
 
@@ -15,7 +15,7 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Aspirant;Java+Developer;Full+Stack+Learner;LeetCode+Problem+Solver;Always+Learning+🚀"
-    alt="Typing SVG"
+    alt="Typing Animation"
   />
 </p>
 
@@ -23,12 +23,46 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 # 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Solving Data Structures & Algorithms in Java
-- 🌱 Learning Full Stack Development
-- 📊 Exploring SQL, Power BI & Data Analytics
-- 🚀 Building Real-World Projects
-- 🎯 Goal: Become a Software Engineer
+I'm a Computer Science Engineering student focused on building strong software engineering fundamentals and practical development skills.
+
+- 💻 Java & Data Structures and Algorithms
+- 🌐 Full Stack & Backend Development
+- 📊 SQL, Power BI & Data Analytics
+- 🚀 Building real-world projects
+- 🧠 Focused on problem-solving and clean code
+- 🎯 Preparing for Software Engineering opportunities
+
+---
+
+# 🧩 Engineering Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Java & Object-Oriented Programming
+- Data Structures & Algorithms
+- Backend Development
+- REST API Development
+- Full Stack Web Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & Problem Solving
+
+- SQL & Database Design
+- Power BI & Data Analytics
+- Algorithmic Problem Solving
+- Clean & Maintainable Code
+- Time & Space Complexity Analysis
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,14 +94,14 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
   <tr>
     <td align="center" width="55%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260913"
         width="467"
         alt="GitHub Statistics"
       />
     </td>
     <td align="center" width="45%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260908"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
         width="300"
         alt="Most Used Languages"
       />
@@ -89,30 +123,19 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Nick-0-7&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 # 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-activity.svg?v=20260908"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-activity.svg?v=20260913"
     width="900"
-    alt="GitHub Profile Activity"
+    alt="GitHub Activity"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Activity
 
 <p align="center">
   <img
@@ -127,7 +150,7 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-trophies.svg"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-trophies.svg?v=20260913"
     width="900"
     alt="GitHub Trophies"
   />
@@ -142,7 +165,7 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
     <img
       src="https://leetcard.jacoblin.cool/NikhilMkutre?theme=dark&font=Karma"
       width="500"
-      alt="Nikhil Kutre LeetCode Stats"
+      alt="Nikhil Kutre LeetCode Statistics"
     />
   </a>
 </p>
@@ -155,22 +178,17 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
 
 ---
 
-# 🎯 My DSA Goal
+# 🎯 DSA & Problem Solving
 
-> **Give me an unfamiliar problem, and I can identify the pattern,
-> explain my approach, write the code, and defend my solution.**
+> **My goal is not simply to count solved problems — it's to understand patterns, build efficient solutions, and explain my reasoning clearly.**
 
-I'm focusing on **understanding patterns and problem-solving**, not simply
-counting the number of problems solved.
+Currently focusing on:
 
-### What I'm working toward
-
-- 🧠 Recognizing patterns in unfamiliar problems
-- 💡 Developing brute-force → optimized solutions
-- 🗣️ Explaining my thought process clearly
-- 💻 Writing clean and efficient Java solutions
-- 📊 Analyzing time & space complexity
-- 🎤 Defending my solution in technical interviews
+- 🧠 Pattern recognition
+- 💡 Brute force → optimized approaches
+- 💻 Clean and efficient Java solutions
+- 📊 Time & space complexity
+- 🗣️ Technical explanation and problem-solving
 
 ---
 
@@ -178,76 +196,72 @@ counting the number of problems solved.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🧠 Habit Tracker
+<h3>🧠 Habit Tracker</h3>
 
 <a href="https://habit-tracker-127a9.firebaseapp.com/">
-<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png" width="100%" alt="Habit Tracker Preview">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png"
+    width="100%"
+    alt="Habit Tracker Preview"
+  />
 </a>
 
-A visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics.
+<p>
+Visual habit-tracking web app with daily tracking, categories, streaks, achievements, and Chart.js analytics.
+</p>
 
-**Tech:** HTML • CSS • JavaScript • Chart.js
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript • Chart.js
+</p>
 
-[💻 GitHub](https://github.com/Nick-0-7/Habit-Tracker) • [🌐 Live Demo](https://habit-tracker-127a9.firebaseapp.com/)
+<p>
+<a href="https://github.com/Nick-0-7/Habit-Tracker">💻 GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://habit-tracker-127a9.firebaseapp.com/">🌐 Live Demo</a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 LocalMart
+<h3>🛒 LocalMart</h3>
 
 <a href="https://local-mart-liard.vercel.app/">
-<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png" width="100%" alt="LocalMart Preview">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png"
+    width="100%"
+    alt="LocalMart Preview"
+  />
 </a>
 
-A hyperlocal marketplace connecting buyers and sellers with product listings, search, filtering, and authentication.
+<p>
+Hyperlocal marketplace connecting buyers and sellers with product listings, search, filtering, and authentication.
+</p>
 
-**Tech:** HTML • CSS • JavaScript • Firebase
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript • Firebase
+</p>
 
-[💻 GitHub](https://github.com/Nick-0-7/Local_Mart) • [🌐 Live Demo](https://local-mart-liard.vercel.app/)
+<p>
+<a href="https://github.com/Nick-0-7/Local_Mart">💻 GitHub</a>
+&nbsp;•&nbsp;
+<a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📚 Project Index
+# 📚 Project Index
 
 <!-- PROJECTS_START -->
-| Repository | Description | Stars | Updated |
-|---|---|---:|---|
-| [Habit-Tracker](https://github.com/Nick-0-7/Habit-Tracker) | No description provided. | ⭐ 1 | 2026-09-04 |
-| [Local_Mart](https://github.com/Nick-0-7/Local_Mart) | No description provided. | ⭐ 1 | 2026-08-08 |
-| [retina-screening](https://github.com/Nick-0-7/retina-screening) | No description provided. | ⭐ 0 | 2026-08-26 |
-| [LEETCODE](https://github.com/Nick-0-7/LEETCODE) | No description provided. | ⭐ 0 | 2026-09-12 |
-| [strawhat](https://github.com/Nick-0-7/strawhat) | No description provided. | ⭐ 0 | 2026-08-22 |
-| [Portfolio](https://github.com/Nick-0-7/Portfolio) | No description provided. | ⭐ 0 | 2026-08-06 |
-| [DF-Youtube](https://github.com/Nick-0-7/DF-Youtube) | No description provided. | ⭐ 0 | 2026-07-18 |
-| [Power-BI](https://github.com/Nick-0-7/Power-BI) | No description provided. | ⭐ 0 | 2026-02-20 |
-| [web-robo-speaker](https://github.com/Nick-0-7/web-robo-speaker) | A simple web-based text to speech app using Flask | ⭐ 0 | 2026-01-31 |
 <!-- PROJECTS_END -->
-
----
-
-# 📚 Currently Learning
-
-- 🌐 Backend Development
-- ☁ REST APIs
-- 📚 System Design
-- ⚡ Advanced Java
-
----
-
-# 🎯 2026 Goals
-
-- 🧠 Master DSA patterns and problem-solving
-- 💻 Build 10+ production-ready projects
-- 🌐 Strengthen backend development skills
-- 🤝 Contribute to Open Source
-- 🎓 Secure a Software Engineering Internship
 
 ---
 
@@ -281,5 +295,5 @@ A hyperlocal marketplace connecting buyers and sellers with product listings, se
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <i>Building. Learning. Solving. 🚀</i>
 </p>
