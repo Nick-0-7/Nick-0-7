@@ -1,0 +1,596 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="1100"
+        height="700"
+        viewBox="0 0 1100 700">
+
+    <rect width="1100" height="700" rx="16"
+          fill="#070d18"/>
+
+    <text x="30" y="55"
+          fill="#f8fafc"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="29"
+          font-weight="700">
+        05 · ENGINEERING METRICS
+    </text>
+
+    <text x="30" y="82"
+          fill="#94a3b8"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="14">
+        Live repository signals generated from GitHub activity.
+    </text>
+
+    <line x1="30" y1="103"
+          x2="1070" y2="103"
+          stroke="#263449"
+          stroke-width="1"/>
+
+    <line x1="30" y1="104"
+          x2="1070" y2="104"
+          stroke="#00c2ff"
+          stroke-width="2"/>
+    
+
+    <rect x="30" y="125"
+          width="1040"
+          height="150"
+          rx="16"
+          fill="#091221"
+          stroke="#1f3148"/>
+
+    <text x="50" y="155"
+          fill="#f8fafc"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="17"
+          font-weight="700">
+        GitHub Engineering Metrics
+    </text>
+    
+
+            <rect x="50" y="170"
+                  width="180"
+                  height="85"
+                  rx="12"
+                  fill="#0b1626"
+                  stroke="#20344d"/>
+
+            <rect x="50" y="170"
+                  width="4"
+                  height="85"
+                  rx="2"
+                  fill="#3178C6"/>
+
+            <text x="66" y="192"
+                  fill="#8eb7d9"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="9">
+                PUBLIC REPOSITORIES
+            </text>
+
+            <text x="66" y="225"
+                  fill="#3178C6"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="24"
+                  font-weight="700">
+                15
+            </text>
+
+            <text x="66" y="243"
+                  fill="#60748c"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="8">
+                GitHub profile signal
+            </text>
+            
+
+            <rect x="250" y="170"
+                  width="180"
+                  height="85"
+                  rx="12"
+                  fill="#0b1626"
+                  stroke="#20344d"/>
+
+            <rect x="250" y="170"
+                  width="4"
+                  height="85"
+                  rx="2"
+                  fill="#F7DF1E"/>
+
+            <text x="266" y="192"
+                  fill="#8eb7d9"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="9">
+                TOTAL STARS
+            </text>
+
+            <text x="266" y="225"
+                  fill="#F7DF1E"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="24"
+                  font-weight="700">
+                2
+            </text>
+
+            <text x="266" y="243"
+                  fill="#60748c"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="8">
+                GitHub profile signal
+            </text>
+            
+
+            <rect x="450" y="170"
+                  width="180"
+                  height="85"
+                  rx="12"
+                  fill="#0b1626"
+                  stroke="#20344d"/>
+
+            <rect x="450" y="170"
+                  width="4"
+                  height="85"
+                  rx="2"
+                  fill="#E34F26"/>
+
+            <text x="466" y="192"
+                  fill="#8eb7d9"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="9">
+                TOTAL FORKS
+            </text>
+
+            <text x="466" y="225"
+                  fill="#E34F26"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="24"
+                  font-weight="700">
+                1
+            </text>
+
+            <text x="466" y="243"
+                  fill="#60748c"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="8">
+                GitHub profile signal
+            </text>
+            
+
+            <rect x="650" y="170"
+                  width="180"
+                  height="85"
+                  rx="12"
+                  fill="#0b1626"
+                  stroke="#20344d"/>
+
+            <rect x="650" y="170"
+                  width="4"
+                  height="85"
+                  rx="2"
+                  fill="#3776AB"/>
+
+            <text x="666" y="192"
+                  fill="#8eb7d9"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="9">
+                FOLLOWERS
+            </text>
+
+            <text x="666" y="225"
+                  fill="#3776AB"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="24"
+                  font-weight="700">
+                5
+            </text>
+
+            <text x="666" y="243"
+                  fill="#60748c"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="8">
+                GitHub profile signal
+            </text>
+            
+
+            <rect x="850" y="170"
+                  width="180"
+                  height="85"
+                  rx="12"
+                  fill="#0b1626"
+                  stroke="#20344d"/>
+
+            <rect x="850" y="170"
+                  width="4"
+                  height="85"
+                  rx="2"
+                  fill="#1572B6"/>
+
+            <text x="866" y="192"
+                  fill="#8eb7d9"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="9">
+                ACTIVE REPOSITORIES
+            </text>
+
+            <text x="866" y="225"
+                  fill="#1572B6"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="24"
+                  font-weight="700">
+                10
+            </text>
+
+            <text x="866" y="243"
+                  fill="#60748c"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="8">
+                GitHub profile signal
+            </text>
+            
+
+    <rect x="30" y="295"
+          width="1040"
+          height="350"
+          rx="16"
+          fill="#091221"
+          stroke="#1f3148"/>
+
+    <text x="50" y="330"
+          fill="#f8fafc"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="17"
+          font-weight="700">
+        Language Profile
+    </text>
+
+    <text x="50" y="350"
+          fill="#71849a"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="10">
+        Aggregated by bytes across active, non-fork repositories.
+    </text>
+    
+
+            <text x="50" y="392"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="11"
+                  font-weight="600">
+                JavaScript
+            </text>
+
+            <rect x="160" y="382"
+                  width="350"
+                  height="9"
+                  rx="5"
+                  fill="#16283e"/>
+
+            <rect x="160" y="382"
+                  width="188.631455791409"
+                  height="9"
+                  rx="5"
+                  fill="#3178C6"/>
+
+            <text x="530" y="392"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                53.9%
+            </text>
+            
+
+            <text x="50" y="429"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="11"
+                  font-weight="600">
+                HTML
+            </text>
+
+            <rect x="160" y="419"
+                  width="350"
+                  height="9"
+                  rx="5"
+                  fill="#16283e"/>
+
+            <rect x="160" y="419"
+                  width="100.39331439077387"
+                  height="9"
+                  rx="5"
+                  fill="#F7DF1E"/>
+
+            <text x="530" y="429"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                28.7%
+            </text>
+            
+
+            <text x="50" y="466"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="11"
+                  font-weight="600">
+                Python
+            </text>
+
+            <rect x="160" y="456"
+                  width="350"
+                  height="9"
+                  rx="5"
+                  fill="#16283e"/>
+
+            <rect x="160" y="456"
+                  width="25.733511616246034"
+                  height="9"
+                  rx="5"
+                  fill="#E34F26"/>
+
+            <text x="530" y="466"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                7.4%
+            </text>
+            
+
+            <text x="50" y="503"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="11"
+                  font-weight="600">
+                Java
+            </text>
+
+            <rect x="160" y="493"
+                  width="350"
+                  height="9"
+                  rx="5"
+                  fill="#16283e"/>
+
+            <rect x="160" y="493"
+                  width="20.558448938659534"
+                  height="9"
+                  rx="5"
+                  fill="#3776AB"/>
+
+            <text x="530" y="503"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                5.9%
+            </text>
+            
+
+            <text x="50" y="540"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="11"
+                  font-weight="600">
+                CSS
+            </text>
+
+            <rect x="160" y="530"
+                  width="350"
+                  height="9"
+                  rx="5"
+                  fill="#16283e"/>
+
+            <rect x="160" y="530"
+                  width="14.683269262911583"
+                  height="9"
+                  rx="5"
+                  fill="#1572B6"/>
+
+            <text x="530" y="540"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                4.2%
+            </text>
+            
+
+        <circle cx="775" cy="495"
+                r="78"
+                fill="none"
+                stroke="#14253a"
+                stroke-width="28"/>
+        
+
+            <circle cx="775" cy="495"
+                    r="78"
+                    fill="none"
+                    stroke="#3178C6"
+                    stroke-width="28"
+                    stroke-dasharray="264.1317101058205 225.9567438541872"
+                    stroke-dashoffset="0"
+                    transform="rotate(-90 775 495)"/>
+            
+
+            <circle cx="775" cy="495"
+                    r="78"
+                    fill="none"
+                    stroke="#F7DF1E"
+                    stroke-width="28"
+                    stroke-dasharray="140.57601210770102 349.51244185230667"
+                    stroke-dashoffset="-264.1317101058205"
+                    transform="rotate(-90 775 495)"/>
+            
+
+            <circle cx="775" cy="495"
+                    r="78"
+                    fill="none"
+                    stroke="#E34F26"
+                    stroke-width="28"
+                    stroke-dasharray="36.033419779908336 454.05503418009937"
+                    stroke-dashoffset="-404.7077222135215"
+                    transform="rotate(-90 775 495)"/>
+            
+
+            <circle cx="775" cy="495"
+                    r="78"
+                    fill="none"
+                    stroke="#3776AB"
+                    stroke-width="28"
+                    stroke-dasharray="28.787024160466895 461.3014297995408"
+                    stroke-dashoffset="-440.74114199342984"
+                    transform="rotate(-90 775 495)"/>
+            
+
+            <circle cx="775" cy="495"
+                    r="78"
+                    fill="none"
+                    stroke="#1572B6"
+                    stroke-width="28"
+                    stroke-dasharray="20.560287806110974 469.52816615389673"
+                    stroke-dashoffset="-469.52816615389673"
+                    transform="rotate(-90 775 495)"/>
+            
+
+    <circle cx="775" cy="495"
+            r="48"
+            fill="#091221"/>
+
+    <text x="775" y="489"
+          text-anchor="middle"
+          fill="#f8fafc"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="17"
+          font-weight="700">
+        100%
+    </text>
+
+    <text x="775" y="508"
+          text-anchor="middle"
+          fill="#8da1b7"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="9">
+        LANGUAGE MIX
+    </text>
+    
+
+            <circle cx="870"
+                    cy="386"
+                    r="5"
+                    fill="#3178C6"/>
+
+            <text x="884" y="390"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10">
+                JavaScript
+            </text>
+
+            <text x="1015" y="390"
+                  text-anchor="end"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                53.9%
+            </text>
+            
+
+            <circle cx="870"
+                    cy="413"
+                    r="5"
+                    fill="#F7DF1E"/>
+
+            <text x="884" y="417"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10">
+                HTML
+            </text>
+
+            <text x="1015" y="417"
+                  text-anchor="end"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                28.7%
+            </text>
+            
+
+            <circle cx="870"
+                    cy="440"
+                    r="5"
+                    fill="#E34F26"/>
+
+            <text x="884" y="444"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10">
+                Python
+            </text>
+
+            <text x="1015" y="444"
+                  text-anchor="end"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                7.4%
+            </text>
+            
+
+            <circle cx="870"
+                    cy="467"
+                    r="5"
+                    fill="#3776AB"/>
+
+            <text x="884" y="471"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10">
+                Java
+            </text>
+
+            <text x="1015" y="471"
+                  text-anchor="end"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                5.9%
+            </text>
+            
+
+            <circle cx="870"
+                    cy="494"
+                    r="5"
+                    fill="#1572B6"/>
+
+            <text x="884" y="498"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10">
+                CSS
+            </text>
+
+            <text x="1015" y="498"
+                  text-anchor="end"
+                  fill="#dce7f2"
+                  font-family="Arial, Helvetica, sans-serif"
+                  font-size="10"
+                  font-weight="600">
+                4.2%
+            </text>
+            
+
+    <text x="50" y="625"
+          fill="#52677e"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="9">
+        Automatically generated with GitHub Actions · No manual edits required.
+    </text>
+
+    </svg>
+    
