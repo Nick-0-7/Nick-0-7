@@ -1,0 +1,108 @@
+name: Generate Project Previews
+
+on:
+  schedule:
+    - cron: "37 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install --no-audit --no-fund playwright
+          npx playwright install --with-deps chromium
+
+      - name: Create preview directory
+        run: mkdir -p dist/previews
+
+      - name: Capture project previews
+        run: |
+          cat > capture.js <<'EOF'
+          const { chromium } = require("playwright");
+          const fs = require("fs");
+
+          const projects = [
+            {
+              name: "habit-tracker",
+              url: "https://habit-tracker-127a9.firebaseapp.com/"
+            },
+            {
+              name: "local-mart",
+              url: "https://local-mart-liard.vercel.app/"
+            }
+          ];
+
+          async function main() {
+            const browser = await chromium.launch({
+              headless: true
+            });
+
+            const context = await browser.newContext({
+              viewport: {
+                width: 1440,
+                height: 900
+              },
+              deviceScaleFactor: 1
+            });
+
+            const page = await context.newPage();
+
+            for (const project of projects) {
+              console.log(`Capturing ${project.name}...`);
+
+              try {
+                await page.goto(project.url, {
+                  waitUntil: "domcontentloaded",
+                  timeout: 90000
+                });
+
+                await page.waitForTimeout(5000);
+
+                await page.screenshot({
+                  path: `dist/previews/${project.name}.png`,
+                  fullPage: false
+                });
+
+                console.log(`✓ ${project.name} captured`);
+              } catch (error) {
+                console.error(`✗ ${project.name} failed`);
+                console.error(error.message);
+                process.exitCode = 1;
+              }
+            }
+
+            await browser.close();
+          }
+
+          main();
+          EOF
+
+          node capture.js
+
+      - name: Verify previews
+        run: |
+          test -s dist/previews/habit-tracker.png
+          test -s dist/previews/local-mart.png
+
+      - name: Publish previews
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
