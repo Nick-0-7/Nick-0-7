@@ -237,6 +237,7 @@ My DSA practice focuses on:
 
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -339,69 +340,6 @@ AI-based retinal screening project focused on detecting retinal conditions from 
 &nbsp;•&nbsp;
 <a href="https://retina-screening.vercel.app">
 🌐 Live Demo
-</a>
-
-</p>
-
-</td>
-
-
-<td width="50%" valign="top">
-
-<h3>
-<a href="https://github.com/Nick-0-7/LEETCODE">
-🧠 LeetCode
-</a>
-</h3>
-
-<p>
-Data Structures and Algorithms practice focused on problem solving and optimized Java solutions.
-</p>
-
-<p>
-<b>Tech:</b> Java • DSA • Algorithms
-</p>
-
-<p>
-⭐ 0
-</p>
-
-<p>
-<a href="https://github.com/Nick-0-7/LEETCODE">
-💻 GitHub
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-<a href="https://github.com/Nick-0-7/Portfolio">
-💼 Portfolio
-</a>
-</h3>
-
-<p>
-Personal developer portfolio showcasing projects, skills, and software engineering work.
-</p>
-
-<p>
-<b>Tech:</b> HTML • CSS • JavaScript
-</p>
-
-<p>
-⭐ 0
-</p>
-
-<p>
-<a href="https://github.com/Nick-0-7/Portfolio">
-💻 GitHub
 </a>
 
 </p>
@@ -550,6 +488,7 @@ A simple web-based text to speech app using Flask
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 
