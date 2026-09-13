@@ -235,8 +235,295 @@ My DSA practice focuses on:
 
 ## 📚 Project Index
 
+
 <!-- PROJECTS_START -->
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/Habit-Tracker">Habit-Tracker</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> JavaScript
+</p>
+
+<p>
+⭐ 1
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-09-04
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/Habit-Tracker">
+💻 GitHub
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/Local_Mart">Local_Mart</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> HTML
+</p>
+
+<p>
+⭐ 1
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-08-08
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/Local_Mart">
+💻 GitHub
+</a>
+
+&nbsp; • &nbsp;
+<a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/retina-screening">retina-screening</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> JavaScript
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 1
+&nbsp; • &nbsp;
+📅 2026-08-26
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/retina-screening">
+💻 GitHub
+</a>
+
+&nbsp; • &nbsp;
+<a href="https://retina-screening.vercel.app">🌐 Live Demo</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/LEETCODE">LEETCODE</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> Java
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-09-12
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/LEETCODE">
+💻 GitHub
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/strawhat">strawhat</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> JavaScript
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-08-22
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/strawhat">
+💻 GitHub
+</a>
+
+&nbsp; • &nbsp;
+<a href="https://strawhat-hazel.vercel.app">🌐 Live Demo</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/Portfolio">Portfolio</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> HTML
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-08-06
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/Portfolio">
+💻 GitHub
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/DF-Youtube">DF-Youtube</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> HTML
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-07-18
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/DF-Youtube">
+💻 GitHub
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/Power-BI">Power-BI</a></h3>
+
+<p>Project description coming soon.</p>
+
+<p>
+<b>Tech:</b> Multiple technologies
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-02-20
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/Power-BI">
+💻 GitHub
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📦 <a href="https://github.com/Nick-0-7/web-robo-speaker">web-robo-speaker</a></h3>
+
+<p>A simple web-based text to speech app using Flask</p>
+
+<p>
+<b>Tech:</b> HTML
+</p>
+
+<p>
+⭐ 0
+&nbsp; • &nbsp;
+🍴 0
+&nbsp; • &nbsp;
+📅 2026-01-31
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/web-robo-speaker">
+💻 GitHub
+</a>
+
+&nbsp; • &nbsp;
+<a href="http://127.0.0.1:5000">🌐 Live Demo</a>
+
+</p>
+
+</td>
+
+
+</tr>
+
+</table>
+
 <!-- PROJECTS_END -->
+
 
 ---
 
