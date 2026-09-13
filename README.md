@@ -60,15 +60,15 @@ Computer Science Engineering Student • Java Developer • Full Stack Learner �
   <tr>
     <td align="center" width="55%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908?v=20260908?v=20260908?v=20260908"
-        width="500"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908"
+        width="467"
         alt="GitHub Statistics"
       />
     </td>
     <td align="center" width="45%">
       <img
-        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260908"
-        width="380"
+        src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260908"
+        width="300"
         alt="Most Used Languages"
       />
     </td>
@@ -162,7 +162,7 @@ counting the number of problems solved.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -198,7 +198,16 @@ A hyperlocal marketplace connecting buyers and sellers with product listings, se
 
 </td>
 </tr>
-</table>---
+</table>
+
+---
+
+## 📚 Project Index
+
+<!-- PROJECTS_START -->
+<!-- PROJECTS_END -->
+
+---
 
 # 📚 Currently Learning
 
