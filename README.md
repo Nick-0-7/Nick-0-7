@@ -205,17 +205,19 @@ My DSA practice focuses on:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-stats.svg?v=20260913"
-    width="470"
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/github-statistics.svg?v=20260913"
+    width="100%"
     alt="GitHub Statistics"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
-    width="300"
-    alt="Most Used Languages"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/main/assets/top-langs.svg?v=20260913"
+    width="500"
+    alt="Most Used Languages"
+  />
+</p>
 ---
 
 ## 📈 Engineering Metrics
