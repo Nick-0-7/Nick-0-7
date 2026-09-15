@@ -266,7 +266,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="382"
-                  width="185.74375051020274"
+                  width="185.68434145667297"
                   height="9"
                   rx="5"
                   fill="#3178C6"/>
@@ -295,7 +295,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="419"
-                  width="98.85642170790861"
+                  width="98.82480305892109"
                   height="9"
                   rx="5"
                   fill="#F7DF1E"/>
@@ -324,7 +324,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="456"
-                  width="30.697615016155325"
+                  width="30.68779656332059"
                   height="9"
                   rx="5"
                   fill="#E34F26"/>
@@ -353,7 +353,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="493"
-                  width="20.24372549381042"
+                  width="20.349196111853317"
                   height="9"
                   rx="5"
                   fill="#3776AB"/>
@@ -382,7 +382,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="530"
-                  width="14.458487271922918"
+                  width="14.453862809232044"
                   height="9"
                   rx="5"
                   fill="#1572B6"/>
@@ -408,7 +408,7 @@
                     fill="none"
                     stroke="#3178C6"
                     stroke-width="28"
-                    stroke-dasharray="260.08819291508183 230.00026104492588"
+                    stroke-dasharray="260.00500522595144 230.08344873405628"
                     stroke-dashoffset="0"
                     transform="rotate(-90 775 495)"/>
             
@@ -418,8 +418,8 @@
                     fill="none"
                     stroke="#F7DF1E"
                     stroke-width="28"
-                    stroke-dasharray="138.42397393956423 351.6644800204435"
-                    stroke-dashoffset="-260.08819291508183"
+                    stroke-dasharray="138.37969984013966 351.70875411986805"
+                    stroke-dashoffset="-260.00500522595144"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -428,8 +428,8 @@
                     fill="none"
                     stroke="#E34F26"
                     stroke-width="28"
-                    stroke-dasharray="42.98441909579165 447.10403486421603"
-                    stroke-dashoffset="-398.51216685464607"
+                    stroke-dasharray="42.97067078044864 447.11778317955907"
+                    stroke-dashoffset="-398.3847050660911"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -438,8 +438,8 @@
                     fill="none"
                     stroke="#3776AB"
                     stroke-width="28"
-                    stroke-dasharray="28.346331799006688 461.742122161001"
-                    stroke-dashoffset="-441.49658595043775"
+                    stroke-dasharray="28.494017319391983 461.59443664061575"
+                    stroke-dashoffset="-441.35537584653974"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -448,8 +448,8 @@
                     fill="none"
                     stroke="#1572B6"
                     stroke-width="28"
-                    stroke-dasharray="20.245536210563294 469.84291774944444"
-                    stroke-dashoffset="-469.84291774944444"
+                    stroke-dasharray="20.23906079407596 469.84939316593176"
+                    stroke-dashoffset="-469.8493931659317"
                     transform="rotate(-90 775 495)"/>
             
 
