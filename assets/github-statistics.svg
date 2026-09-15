@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  382
+  386
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  334
+  335
 </text>
 
 
@@ -259,35 +259,35 @@
 
 <rect x="50"
       y="360"
-      width="451.09196552477806"
+      width="450.9476863947771"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="501.09196552477806"
+<rect x="500.9476863947771"
       y="360"
-      width="240.0798812906352"
+      width="240.00309314309408"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="741.1718468154132"
+<rect x="740.9507795378712"
       y="360"
-      width="74.55135075352007"
+      width="74.52750593949285"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="815.7231975689333"
+<rect x="815.478285477364"
       y="360"
-      width="49.16333334211102"
+      width="49.419476271643774"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="864.8865309110444"
+<rect x="864.8977617490078"
       y="360"
-      width="35.11346908895566"
+      width="35.10223825099211"
       height="12"
       fill="#1572B6"/>
 
