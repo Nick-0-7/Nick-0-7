@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  386
+  389
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  335
+  337
 </text>
 
 
@@ -202,7 +202,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  15
+  14
 </text>
 
 
@@ -259,35 +259,35 @@
 
 <rect x="50"
       y="360"
-      width="450.9476863947771"
+      width="405.94759361236856"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="500.9476863947771"
+<rect x="455.94759361236856"
       y="360"
-      width="240.00309314309408"
+      width="278.7571285060612"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="740.9507795378712"
+<rect x="734.7047221184298"
       y="360"
-      width="74.52750593949285"
+      width="72.81098969084795"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="815.478285477364"
+<rect x="807.5157118092777"
       y="360"
-      width="49.419476271643774"
+      width="58.46148309678841"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="864.8977617490078"
+<rect x="865.9771949060662"
       y="360"
-      width="35.10223825099211"
+      width="34.022805093933954"
       height="12"
       fill="#1572B6"/>
 
@@ -302,7 +302,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 53.1%
+  JavaScript 47.8%
 </text>
 
 
@@ -316,7 +316,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 28.2%
+  HTML 32.8%
 </text>
 
 
@@ -330,7 +330,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Python 8.8%
+  Python 8.6%
 </text>
 
 
@@ -344,7 +344,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Java 5.8%
+  Java 6.9%
 </text>
 
 
@@ -358,7 +358,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  CSS 4.1%
+  CSS 4.0%
 </text>
 
 
