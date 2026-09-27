@@ -1,20 +1,36 @@
-name: Generate Project Previews
+name: Profile Assets Guardian
 
 on:
   schedule:
-    - cron: "37 4 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  repair:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch existing output assets
+        run: |
+          git fetch origin output:refs/remotes/origin/output
+
+          rm -rf existing-output
+          mkdir -p existing-output
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git archive origin/output | tar -x -C existing-output
+          fi
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
@@ -37,8 +53,10 @@ jobs:
           npm install --no-audit --no-fund playwright
           npx playwright install --with-deps chromium
 
-      - name: Create preview directory
-        run: mkdir -p dist/previews
+      - name: Create preview directories
+        run: |
+          mkdir -p dist/previews
+          mkdir -p captured-previews
 
       - name: Capture project previews
         run: |
@@ -56,6 +74,32 @@ jobs:
             }
           ];
 
+          async function captureProject(page, project) {
+            console.log(`Checking ${project.name}...`);
+
+            const response = await page.goto(project.url, {
+              waitUntil: "domcontentloaded",
+              timeout: 90000
+            });
+
+            if (!response || !response.ok()) {
+              throw new Error(
+                `HTTP check failed: ${
+                  response ? response.status() : "no response"
+                }`
+              );
+            }
+
+            await page.waitForTimeout(5000);
+
+            await page.screenshot({
+              path: `captured-previews/${project.name}.png`,
+              fullPage: false
+            });
+
+            console.log(`✓ ${project.name} captured`);
+          }
+
           async function main() {
             const browser = await chromium.launch({
               headless: true
@@ -72,26 +116,12 @@ jobs:
             for (const project of projects) {
               const page = await context.newPage();
 
-              console.log(`Capturing ${project.name}...`);
-
               try {
-                await page.goto(project.url, {
-                  waitUntil: "domcontentloaded",
-                  timeout: 90000
-                });
-
-                await page.waitForTimeout(5000);
-
-                await page.screenshot({
-                  path: `dist/previews/${project.name}.png`,
-                  fullPage: false
-                });
-
-                console.log(`✓ ${project.name} captured`);
+                await captureProject(page, project);
               } catch (error) {
-                console.error(`✗ ${project.name} failed`);
-                console.error(error.message);
-                process.exitCode = 1;
+                console.error(
+                  `✗ ${project.name} capture failed: ${error.message}`
+                );
               }
 
               await page.close();
@@ -105,14 +135,45 @@ jobs:
 
           node capture.js
 
-      - name: Verify generated assets
+      - name: Repair missing previews from last known good version
+        run: |
+          for project in habit-tracker local-mart; do
+            if test -s "captured-previews/$project.png"; then
+
+              cp \
+                "captured-previews/$project.png" \
+                "dist/previews/$project.png"
+
+              echo "Using fresh preview: $project"
+
+            elif test -s "existing-output/previews/$project.png"; then
+
+              cp \
+                "existing-output/previews/$project.png" \
+                "dist/previews/$project.png"
+
+              echo "Using last known good preview: $project"
+
+            else
+
+              echo "No usable preview exists for $project"
+              exit 1
+
+            fi
+          done
+
+      - name: Verify all profile assets
         run: |
           test -s dist/github-contribution-grid-snake.svg
           test -s dist/github-contribution-grid-snake-dark.svg
+
           test -s dist/previews/habit-tracker.png
           test -s dist/previews/local-mart.png
 
-      - name: Publish generated assets
+          file dist/previews/habit-tracker.png
+          file dist/previews/local-mart.png
+
+      - name: Publish repaired profile assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
