@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  425
+  431
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  489
+  494
 </text>
 
 
@@ -136,7 +136,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  4
+  5
 </text>
 
 
@@ -202,7 +202,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  14
+  15
 </text>
 
 
@@ -259,35 +259,35 @@
 
 <rect x="50"
       y="360"
-      width="438.97859249028005"
+      width="438.6634563180134"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="488.97859249028005"
+<rect x="488.6634563180134"
       y="360"
-      width="252.9434283697443"
+      width="252.76184406203527"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="741.9220208600243"
+<rect x="741.4253003800486"
       y="360"
-      width="72.4158415016105"
+      width="72.36385525104454"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="814.3378623616348"
+<rect x="813.7891556310932"
       y="360"
-      width="55.354517587618496"
+      width="55.92498170573377"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="869.6923799492533"
+<rect x="869.714137336827"
       y="360"
-      width="30.30762005074661"
+      width="30.285862663173052"
       height="12"
       fill="#1572B6"/>
 
@@ -316,7 +316,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 29.8%
+  HTML 29.7%
 </text>
 
 
@@ -344,7 +344,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Java 6.5%
+  Java 6.6%
 </text>
 
 
