@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  462
+  466
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  542
+  543
 </text>
 
 
@@ -259,35 +259,35 @@
 
 <rect x="50"
       y="360"
-      width="438.6634563180134"
+      width="438.01024617155053"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="488.6634563180134"
+<rect x="488.01024617155053"
       y="360"
-      width="252.76184406203527"
+      width="252.38545847804835"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="741.4253003800486"
+<rect x="740.3957046495989"
       y="360"
-      width="72.36385525104454"
+      width="72.256098829108"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="813.7891556310932"
+<rect x="812.6518034787068"
       y="360"
-      width="55.92498170573377"
+      width="57.10743228722556"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="869.714137336827"
+<rect x="869.7592357659324"
       y="360"
-      width="30.285862663173052"
+      width="30.240764234067484"
       height="12"
       fill="#1572B6"/>
 
@@ -302,7 +302,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 51.6%
+  JavaScript 51.5%
 </text>
 
 
@@ -344,7 +344,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Java 6.6%
+  Java 6.7%
 </text>
 
 
