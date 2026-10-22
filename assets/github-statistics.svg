@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  490
+  497
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  567
+  575
 </text>
 
 
@@ -136,7 +136,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  9
+  10
 </text>
 
 
@@ -202,7 +202,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  17
+  18
 </text>
 
 
@@ -259,42 +259,42 @@
 
 <rect x="50"
       y="360"
-      width="587.3787742039704"
+      width="623.9131396111675"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="637.3787742039704"
+<rect x="673.9131396111675"
       y="360"
-      width="146.5420660644925"
+      width="102.2497363524615"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="783.9208402684628"
+<rect x="776.162875963629"
       y="360"
-      width="41.88350750520989"
+      width="58.959818099991274"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="825.8043477736727"
+<rect x="835.1226940636202"
       y="360"
-      width="34.46947565196915"
+      width="29.171592565475272"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="860.2738234256418"
+<rect x="864.2942866290955"
       y="360"
-      width="22.988075729605093"
+      width="24.0077672468032"
       height="12"
       fill="#1572B6"/>
 
 
-<rect x="883.2618991552469"
+<rect x="888.3020538758987"
       y="360"
-      width="14.619708439252285"
+      width="10.182532538920196"
       height="12"
       fill="#A78BFA"/>
 
@@ -309,7 +309,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 69.1%
+  JavaScript 73.4%
 </text>
 
 
@@ -323,7 +323,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 17.2%
+  HTML 12.0%
 </text>
 
 
@@ -337,7 +337,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Python 4.9%
+  CSS 6.9%
 </text>
 
 
@@ -351,7 +351,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Java 4.1%
+  Python 3.4%
 </text>
 
 
@@ -365,7 +365,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  CSS 2.7%
+  Java 2.8%
 </text>
 
 
@@ -379,7 +379,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  PowerShell 1.7%
+  PowerShell 1.2%
 </text>
 
 
