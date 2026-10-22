@@ -73,7 +73,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                17
+                18
             </text>
 
             <text x="66" y="243"
@@ -217,7 +217,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                10
+                11
             </text>
 
             <text x="866" y="243"
@@ -266,7 +266,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="382"
-                  width="241.86184820163487"
+                  width="256.9054104281278"
                   height="9"
                   rx="5"
                   fill="#3178C6"/>
@@ -276,7 +276,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                69.1%
+                73.4%
             </text>
             
 
@@ -295,7 +295,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="419"
-                  width="60.34085073243809"
+                  width="42.10283261571944"
                   height="9"
                   rx="5"
                   fill="#F7DF1E"/>
@@ -305,7 +305,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                17.2%
+                12.0%
             </text>
             
 
@@ -314,7 +314,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                Python
+                CSS
             </text>
 
             <rect x="160" y="456"
@@ -324,7 +324,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="456"
-                  width="17.24615014920407"
+                  width="24.277572158819936"
                   height="9"
                   rx="5"
                   fill="#E34F26"/>
@@ -334,7 +334,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                4.9%
+                6.9%
             </text>
             
 
@@ -343,7 +343,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                Java
+                Python
             </text>
 
             <rect x="160" y="493"
@@ -353,7 +353,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="493"
-                  width="14.193313503752004"
+                  width="12.011832232842757"
                   height="9"
                   rx="5"
                   fill="#3776AB"/>
@@ -363,7 +363,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                4.1%
+                3.4%
             </text>
             
 
@@ -372,7 +372,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                CSS
+                Java
             </text>
 
             <rect x="160" y="530"
@@ -382,7 +382,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="530"
-                  width="9.465678241602097"
+                  width="9.885551219271907"
                   height="9"
                   rx="5"
                   fill="#1572B6"/>
@@ -392,7 +392,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                2.7%
+                2.8%
             </text>
             
 
@@ -411,7 +411,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="567"
-                  width="6.01987994557447"
+                  width="4.1928075160259635"
                   height="9"
                   rx="5"
                   fill="#ED8B00"/>
@@ -421,7 +421,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                1.7%
+                1.2%
             </text>
             
 
@@ -466,7 +466,7 @@
                     fill="none"
                     stroke="#3178C6"
                     stroke-width="28"
-                    stroke-dasharray="338.667712162998 151.42074179700973"
+                    stroke-dasharray="359.73250117337824 130.35595278662947"
                     stroke-dashoffset="0"
                     transform="rotate(-90 775 495)"/>
             
@@ -476,8 +476,8 @@
                     fill="none"
                     stroke="#F7DF1E"
                     stroke-width="28"
-                    stroke-dasharray="84.49244070312052 405.5960132568872"
-                    stroke-dashoffset="-338.667712162998"
+                    stroke-dasharray="58.954606125642655 431.13384783436504"
+                    stroke-dashoffset="-359.73250117337824"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -486,8 +486,8 @@
                     fill="none"
                     stroke="#E34F26"
                     stroke-width="28"
-                    stroke-dasharray="24.148968752530227 465.9394852074775"
-                    stroke-dashoffset="-423.1601528661185"
+                    stroke-dasharray="33.994736586338824 456.0937173736689"
+                    stroke-dashoffset="-418.6871072990209"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -496,8 +496,8 @@
                     fill="none"
                     stroke="#3776AB"
                     stroke-width="28"
-                    stroke-dasharray="19.874225918924342 470.21422804108335"
-                    stroke-dashoffset="-447.3091216186487"
+                    stroke-dasharray="16.819600823488273 473.26885313651945"
+                    stroke-dashoffset="-452.68184388535974"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -506,8 +506,8 @@
                     fill="none"
                     stroke="#1572B6"
                     stroke-width="28"
-                    stroke-dasharray="13.254341757456158 476.8341122025516"
-                    stroke-dashoffset="-467.18334753757307"
+                    stroke-dasharray="13.842270038844108 476.2461839211636"
+                    stroke-dashoffset="-469.501444708848"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -516,8 +516,8 @@
                     fill="none"
                     stroke="#ED8B00"
                     stroke-width="28"
-                    stroke-dasharray="8.429353301575565 481.6591006584321"
-                    stroke-dashoffset="-480.4376892950292"
+                    stroke-dasharray="5.870990152231614 484.2174638077761"
+                    stroke-dashoffset="-483.3437147476921"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -526,8 +526,8 @@
                     fill="none"
                     stroke="#00ADD8"
                     stroke-width="28"
-                    stroke-dasharray="1.0741015117703174 489.0143524482374"
-                    stroke-dashoffset="-488.8670425966048"
+                    stroke-dasharray="0.7481047682414659 489.3403491917662"
+                    stroke-dashoffset="-489.21470489992373"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -571,7 +571,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                69.1%
+                73.4%
             </text>
             
 
@@ -593,7 +593,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                17.2%
+                12.0%
             </text>
             
 
@@ -606,7 +606,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                Python
+                CSS
             </text>
 
             <text x="1015" y="444"
@@ -615,7 +615,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                4.9%
+                6.9%
             </text>
             
 
@@ -628,7 +628,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                Java
+                Python
             </text>
 
             <text x="1015" y="471"
@@ -637,7 +637,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                4.1%
+                3.4%
             </text>
             
 
@@ -650,7 +650,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                CSS
+                Java
             </text>
 
             <text x="1015" y="498"
@@ -659,7 +659,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                2.7%
+                2.8%
             </text>
             
 
@@ -681,7 +681,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                1.7%
+                1.2%
             </text>
             
 
