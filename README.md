@@ -279,6 +279,7 @@ My DSA practice focuses on:
 
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -395,7 +396,7 @@ Software project and development work.
 </p>
 
 <p>
-⭐ 0
+⭐ 1
 </p>
 
 <p>
@@ -531,6 +532,7 @@ A simple web-based text to speech app using Flask
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 
