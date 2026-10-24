@@ -109,7 +109,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                3
+                4
             </text>
 
             <text x="266" y="243"
@@ -266,7 +266,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="382"
-                  width="256.9054104281278"
+                  width="256.23387171735504"
                   height="9"
                   rx="5"
                   fill="#3178C6"/>
@@ -276,7 +276,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                73.4%
+                73.2%
             </text>
             
 
@@ -295,7 +295,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="419"
-                  width="42.10283261571944"
+                  width="41.61578281095771"
                   height="9"
                   rx="5"
                   fill="#F7DF1E"/>
@@ -305,7 +305,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                12.0%
+                11.9%
             </text>
             
 
@@ -324,7 +324,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="456"
-                  width="24.277572158819936"
+                  width="25.630164923447367"
                   height="9"
                   rx="5"
                   fill="#E34F26"/>
@@ -334,7 +334,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                6.9%
+                7.3%
             </text>
             
 
@@ -353,7 +353,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="493"
-                  width="12.011832232842757"
+                  width="11.872878148749797"
                   height="9"
                   rx="5"
                   fill="#3776AB"/>
@@ -382,7 +382,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="530"
-                  width="9.885551219271907"
+                  width="9.886222296977289"
                   height="9"
                   rx="5"
                   fill="#1572B6"/>
@@ -411,7 +411,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="567"
-                  width="4.1928075160259635"
+                  width="4.144304696732957"
                   height="9"
                   rx="5"
                   fill="#ED8B00"/>
@@ -466,7 +466,7 @@
                     fill="none"
                     stroke="#3178C6"
                     stroke-width="28"
-                    stroke-dasharray="359.73250117337824 130.35595278662947"
+                    stroke-dasharray="358.7921772632728 131.29627669673494"
                     stroke-dashoffset="0"
                     transform="rotate(-90 775 495)"/>
             
@@ -476,8 +476,8 @@
                     fill="none"
                     stroke="#F7DF1E"
                     stroke-width="28"
-                    stroke-dasharray="58.954606125642655 431.13384783436504"
-                    stroke-dashoffset="-359.73250117337824"
+                    stroke-dasharray="58.272613309022084 431.81584065098565"
+                    stroke-dashoffset="-358.7921772632728"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -486,8 +486,8 @@
                     fill="none"
                     stroke="#E34F26"
                     stroke-width="28"
-                    stroke-dasharray="33.994736586338824 456.0937173736689"
-                    stroke-dashoffset="-418.6871072990209"
+                    stroke-dasharray="35.88870829163526 454.19974566837243"
+                    stroke-dashoffset="-417.06479057229484"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -496,8 +496,8 @@
                     fill="none"
                     stroke="#3776AB"
                     stroke-width="28"
-                    stroke-dasharray="16.819600823488273 473.26885313651945"
-                    stroke-dashoffset="-452.68184388535974"
+                    stroke-dasharray="16.625029988503844 473.46342397150386"
+                    stroke-dashoffset="-452.9534988639301"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -506,8 +506,8 @@
                     fill="none"
                     stroke="#1572B6"
                     stroke-width="28"
-                    stroke-dasharray="13.842270038844108 476.2461839211636"
-                    stroke-dashoffset="-469.501444708848"
+                    stroke-dasharray="13.843209717230161 476.2452442427776"
+                    stroke-dashoffset="-469.578528852434"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -516,8 +516,8 @@
                     fill="none"
                     stroke="#ED8B00"
                     stroke-width="28"
-                    stroke-dasharray="5.870990152231614 484.2174638077761"
-                    stroke-dashoffset="-483.3437147476921"
+                    stroke-dasharray="5.803073947317296 484.28538001269044"
+                    stroke-dashoffset="-483.4217385696641"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -526,8 +526,8 @@
                     fill="none"
                     stroke="#00ADD8"
                     stroke-width="28"
-                    stroke-dasharray="0.7481047682414659 489.3403491917662"
-                    stroke-dashoffset="-489.21470489992373"
+                    stroke-dasharray="0.7394506169961342 489.3490033430116"
+                    stroke-dashoffset="-489.2248125169814"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -571,7 +571,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                73.4%
+                73.2%
             </text>
             
 
@@ -593,7 +593,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                12.0%
+                11.9%
             </text>
             
 
@@ -615,7 +615,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                6.9%
+                7.3%
             </text>
             
 
