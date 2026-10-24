@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  497
+  502
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  575
+  580
 </text>
 
 
@@ -235,7 +235,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  3
+  4
 </text>
 
 
@@ -259,42 +259,42 @@
 
 <rect x="50"
       y="360"
-      width="623.9131396111675"
+      width="622.4868413041914"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="673.9131396111675"
+<rect x="672.4868413041914"
       y="360"
-      width="102.2497363524615"
+      width="101.10012785105077"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="776.162875963629"
+<rect x="773.5869691552422"
       y="360"
-      width="58.959818099991274"
+      width="62.26514979604715"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="835.1226940636202"
+<rect x="835.8521189512893"
       y="360"
-      width="29.171592565475272"
+      width="28.843612151937972"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="864.2942866290955"
+<rect x="864.6957311032272"
       y="360"
-      width="24.0077672468032"
+      width="23.737844464492277"
       height="12"
       fill="#1572B6"/>
 
 
-<rect x="888.3020538758987"
+<rect x="888.4335755677195"
       y="360"
-      width="10.182532538920196"
+      width="10.068048860133164"
       height="12"
       fill="#A78BFA"/>
 
@@ -309,7 +309,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 73.4%
+  JavaScript 73.2%
 </text>
 
 
@@ -323,7 +323,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 12.0%
+  HTML 11.9%
 </text>
 
 
@@ -337,7 +337,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  CSS 6.9%
+  CSS 7.3%
 </text>
 
 
