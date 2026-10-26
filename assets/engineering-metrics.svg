@@ -73,7 +73,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                18
+                16
             </text>
 
             <text x="66" y="243"
@@ -109,7 +109,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                4
+                3
             </text>
 
             <text x="266" y="243"
@@ -145,7 +145,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                3
+                2
             </text>
 
             <text x="466" y="243"
@@ -217,7 +217,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="24"
                   font-weight="700">
-                11
+                9
             </text>
 
             <text x="866" y="243"
@@ -266,7 +266,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="382"
-                  width="256.23387171735504"
+                  width="188.63910081529852"
                   height="9"
                   rx="5"
                   fill="#3178C6"/>
@@ -276,7 +276,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                73.2%
+                53.9%
             </text>
             
 
@@ -295,7 +295,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="419"
-                  width="41.61578281095771"
+                  width="98.12152765050556"
                   height="9"
                   rx="5"
                   fill="#F7DF1E"/>
@@ -305,7 +305,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                11.9%
+                28.0%
             </text>
             
 
@@ -314,7 +314,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                CSS
+                Python
             </text>
 
             <rect x="160" y="456"
@@ -324,7 +324,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="456"
-                  width="25.630164923447367"
+                  width="28.091471045645193"
                   height="9"
                   rx="5"
                   fill="#E34F26"/>
@@ -334,7 +334,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                7.3%
+                8.0%
             </text>
             
 
@@ -343,7 +343,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                Python
+                Java
             </text>
 
             <rect x="160" y="493"
@@ -353,7 +353,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="493"
-                  width="11.872878148749797"
+                  width="23.391002916642666"
                   height="9"
                   rx="5"
                   fill="#3776AB"/>
@@ -363,7 +363,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                3.4%
+                6.7%
             </text>
             
 
@@ -372,7 +372,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="11"
                   font-weight="600">
-                Java
+                CSS
             </text>
 
             <rect x="160" y="530"
@@ -382,7 +382,7 @@
                   fill="#16283e"/>
 
             <rect x="160" y="530"
-                  width="9.886222296977289"
+                  width="11.756897571908071"
                   height="9"
                   rx="5"
                   fill="#1572B6"/>
@@ -392,65 +392,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                2.8%
-            </text>
-            
-
-            <text x="50" y="577"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="11"
-                  font-weight="600">
-                PowerShell
-            </text>
-
-            <rect x="160" y="567"
-                  width="350"
-                  height="9"
-                  rx="5"
-                  fill="#16283e"/>
-
-            <rect x="160" y="567"
-                  width="4.144304696732957"
-                  height="9"
-                  rx="5"
-                  fill="#ED8B00"/>
-
-            <text x="530" y="577"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10"
-                  font-weight="600">
-                1.2%
-            </text>
-            
-
-            <text x="50" y="614"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="11"
-                  font-weight="600">
-                Batchfile
-            </text>
-
-            <rect x="160" y="604"
-                  width="350"
-                  height="9"
-                  rx="5"
-                  fill="#16283e"/>
-
-            <rect x="160" y="604"
-                  width="2"
-                  height="9"
-                  rx="5"
-                  fill="#00ADD8"/>
-
-            <text x="530" y="614"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10"
-                  font-weight="600">
-                0.2%
+                3.4%
             </text>
             
 
@@ -466,7 +408,7 @@
                     fill="none"
                     stroke="#3178C6"
                     stroke-width="28"
-                    stroke-dasharray="358.7921772632728 131.29627669673494"
+                    stroke-dasharray="264.14241507135904 225.94603888864867"
                     stroke-dashoffset="0"
                     transform="rotate(-90 775 495)"/>
             
@@ -476,8 +418,8 @@
                     fill="none"
                     stroke="#F7DF1E"
                     stroke-width="28"
-                    stroke-dasharray="58.272613309022084 431.81584065098565"
-                    stroke-dashoffset="-358.7921772632728"
+                    stroke-dasharray="137.39493653265833 352.6935174273494"
+                    stroke-dashoffset="-264.14241507135904"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -486,8 +428,8 @@
                     fill="none"
                     stroke="#E34F26"
                     stroke-width="28"
-                    stroke-dasharray="35.88870829163526 454.19974566837243"
-                    stroke-dashoffset="-417.06479057229484"
+                    stroke-dasharray="39.33515889777878 450.7532950622289"
+                    stroke-dashoffset="-401.5373516040174"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -496,8 +438,8 @@
                     fill="none"
                     stroke="#3776AB"
                     stroke-width="28"
-                    stroke-dasharray="16.625029988503844 473.46342397150386"
-                    stroke-dashoffset="-452.9534988639301"
+                    stroke-dasharray="32.753315588546954 457.33513837146074"
+                    stroke-dashoffset="-440.87251050179617"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -506,28 +448,8 @@
                     fill="none"
                     stroke="#1572B6"
                     stroke-width="28"
-                    stroke-dasharray="13.843209717230161 476.2452442427776"
-                    stroke-dashoffset="-469.578528852434"
-                    transform="rotate(-90 775 495)"/>
-            
-
-            <circle cx="775" cy="495"
-                    r="78"
-                    fill="none"
-                    stroke="#ED8B00"
-                    stroke-width="28"
-                    stroke-dasharray="5.803073947317296 484.28538001269044"
-                    stroke-dashoffset="-483.4217385696641"
-                    transform="rotate(-90 775 495)"/>
-            
-
-            <circle cx="775" cy="495"
-                    r="78"
-                    fill="none"
-                    stroke="#00ADD8"
-                    stroke-width="28"
-                    stroke-dasharray="0.7394506169961342 489.3490033430116"
-                    stroke-dashoffset="-489.2248125169814"
+                    stroke-dasharray="16.46262786966456 473.62582609034314"
+                    stroke-dashoffset="-473.62582609034314"
                     transform="rotate(-90 775 495)"/>
             
 
@@ -571,7 +493,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                73.2%
+                53.9%
             </text>
             
 
@@ -593,7 +515,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                11.9%
+                28.0%
             </text>
             
 
@@ -606,7 +528,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                CSS
+                Python
             </text>
 
             <text x="1015" y="444"
@@ -615,7 +537,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                7.3%
+                8.0%
             </text>
             
 
@@ -628,7 +550,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                Python
+                Java
             </text>
 
             <text x="1015" y="471"
@@ -637,7 +559,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                3.4%
+                6.7%
             </text>
             
 
@@ -650,7 +572,7 @@
                   fill="#dce7f2"
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10">
-                Java
+                CSS
             </text>
 
             <text x="1015" y="498"
@@ -659,51 +581,7 @@
                   font-family="Arial, Helvetica, sans-serif"
                   font-size="10"
                   font-weight="600">
-                2.8%
-            </text>
-            
-
-            <circle cx="870"
-                    cy="521"
-                    r="5"
-                    fill="#ED8B00"/>
-
-            <text x="884" y="525"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10">
-                PowerShell
-            </text>
-
-            <text x="1015" y="525"
-                  text-anchor="end"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10"
-                  font-weight="600">
-                1.2%
-            </text>
-            
-
-            <circle cx="870"
-                    cy="548"
-                    r="5"
-                    fill="#00ADD8"/>
-
-            <text x="884" y="552"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10">
-                Batchfile
-            </text>
-
-            <text x="1015" y="552"
-                  text-anchor="end"
-                  fill="#dce7f2"
-                  font-family="Arial, Helvetica, sans-serif"
-                  font-size="10"
-                  font-weight="600">
-                0.2%
+                3.4%
             </text>
             
 
