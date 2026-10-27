@@ -282,6 +282,7 @@ My DSA practice focuses on:
 
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -384,39 +385,8 @@ AI-based retinal screening project focused on detecting retinal conditions from 
 <td width="50%" valign="top">
 
 <h3>
-<a href="https://github.com/Nick-0-7/AttenX-application">
-📦 AttenX-application
-</a>
-</h3>
-
-<p>
-Software project and development work.
-</p>
-
-<p>
-<b>Tech:</b> JavaScript
-</p>
-
-<p>
-⭐ 1
-</p>
-
-<p>
-<a href="https://github.com/Nick-0-7/AttenX-application">💻 GitHub</a>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-<a href="https://github.com/Nick-0-7/Automated-attainment-workbench">
-📦 Automated-attainment-workbench
+<a href="https://github.com/Nick-0-7/AttenX">
+📦 AttenX
 </a>
 </h3>
 
@@ -433,12 +403,18 @@ Software project and development work.
 </p>
 
 <p>
-<a href="https://github.com/Nick-0-7/Automated-attainment-workbench">💻 GitHub</a>
+<a href="https://github.com/Nick-0-7/AttenX">💻 GitHub</a>
+
+&nbsp;•&nbsp;
+<a href="https://atten-x-ten.vercel.app">🌐 Live Demo</a>
 
 </p>
 
 </td>
 
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -467,9 +443,6 @@ Software project and development work.
 
 </td>
 
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -498,6 +471,9 @@ Software project and development work.
 
 </td>
 
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -529,11 +505,13 @@ A simple web-based text to speech app using Flask
 
 </td>
 
+
 </tr>
 
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 
