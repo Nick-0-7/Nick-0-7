@@ -283,6 +283,7 @@ My DSA practice focuses on:
 
 
 
+
 <!-- PROJECTS_START -->
 
 <table>
@@ -447,6 +448,37 @@ Software project and development work.
 <td width="50%" valign="top">
 
 <h3>
+<a href="https://github.com/Nick-0-7/Notify">
+📦 Notify
+</a>
+</h3>
+
+<p>
+Software project and development work.
+</p>
+
+<p>
+<b>Tech:</b> Multiple technologies
+</p>
+
+<p>
+⭐ 0
+</p>
+
+<p>
+<a href="https://github.com/Nick-0-7/Notify">💻 GitHub</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>
 <a href="https://github.com/Nick-0-7/Power-BI">
 📦 Power-BI
 </a>
@@ -471,9 +503,6 @@ Software project and development work.
 
 </td>
 
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -505,12 +534,12 @@ A simple web-based text to speech app using Flask
 
 </td>
 
-
 </tr>
 
 </table>
 
 <!-- PROJECTS_END -->
+
 
 
 
