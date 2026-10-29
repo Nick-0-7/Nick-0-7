@@ -52,7 +52,7 @@ my ability to write clean, efficient, and maintainable code.
 
 ## 🧩 Engineering Focus
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -65,7 +65,6 @@ my ability to write clean, efficient, and maintainable code.
 - Full Stack Web Applications
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📊 Data & Problem Solving
