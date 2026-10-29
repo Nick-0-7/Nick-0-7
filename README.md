@@ -108,61 +108,126 @@ my ability to write clean, efficient, and maintainable code.
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🧠 Habit Tracker
 
-A visual habit-tracking application designed to help users build consistency,
-track daily habits, monitor streaks, and understand habit distribution.
+Build consistency with daily habit tracking, streaks, and progress visualization.
 
 **Tech:** HTML • CSS • JavaScript • Chart.js
 
-<a href="https://github.com/Nick-0-7/Habit-Tracker">
-  💻 GitHub
-</a>
-&nbsp;•&nbsp;
-<a href="https://habit-tracker-127a9.firebaseapp.com/">
-  🌐 Live Demo
-</a>
+<a href="https://github.com/Nick-0-7/Habit-Tracker">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://habit-tracker-127a9.firebaseapp.com/">🌐 Live Demo</a>
 
 <br><br>
 
-<img
-  src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png"
-  width="100%"
-  alt="Habit Tracker"
-/>
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/habit-tracker.png" width="100%" alt="Habit Tracker preview"/>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🛒 LocalMart
 
-A hyperlocal marketplace connecting buyers and sellers with product
-listings, search, filtering, and authentication.
+A hyperlocal marketplace connecting buyers and sellers through product listings and search.
 
 **Tech:** HTML • CSS • JavaScript • Firebase
 
-<a href="https://github.com/Nick-0-7/Local_Mart">
-  💻 GitHub
-</a>
-&nbsp;•&nbsp;
-<a href="https://local-mart-liard.vercel.app/">
-  🌐 Live Demo
-</a>
+<a href="https://github.com/Nick-0-7/Local_Mart">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
 
 <br><br>
 
-<img
-  src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png"
-  width="100%"
-  alt="LocalMart"
-/>
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/local-mart.png" width="100%" alt="LocalMart preview"/>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🧩 LeetCode Tracker
+
+A web application for following LeetCode practice and coding progress.
+
+**Tech:** Web development
+
+<a href="https://github.com/Nick-0-7/Leetcode-Tracker">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://leetcode-tracker-bice.vercel.app/">🌐 Live Demo</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/leetcode-tracker.png" width="100%" alt="LeetCode Tracker preview"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 AttenX
+
+An attendance-focused application for managing attendance workflows.
+
+**Tech:** JavaScript • Web development
+
+<a href="https://github.com/Nick-0-7/AttenX">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://atten-x-ten.vercel.app/">🌐 Live Demo</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/attenx.png" width="100%" alt="AttenX preview"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Campus AI — Saarthi AI
+
+A campus knowledge assistant with document-grounded answers and source citations.
+
+**Tech:** React • Vite • Node.js • Express • RAG
+
+<a href="https://github.com/Nick-0-7/campusAI">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://campus-ai-eta-bice.vercel.app/">🌐 Live Demo</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/campus-ai.png" width="100%" alt="Campus AI preview"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 Retina Screening
+
+A deep-learning application for classifying diabetic retinopathy severity from retinal images.
+
+**Tech:** React • Python • FastAPI • Deep Learning
+
+<a href="https://github.com/Nick-0-7/retina-screening">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://retina-screening.vercel.app/">🌐 Live Demo</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/retina-screening.png" width="100%" alt="Retina Screening preview"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ EV Dashboard
+
+An electric-vehicle dashboard for presenting EV and battery-related metrics.
+
+**Tech:** JavaScript • Web dashboard
+
+<a href="https://github.com/Nick-0-7/EV-Dashboard">💻 GitHub</a> &nbsp;•&nbsp; <a href="https://ev-dashboard-smoky.vercel.app/">🌐 Live Demo</a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Nick-0-7/Nick-0-7/output/previews/ev-dashboard.png" width="100%" alt="EV Dashboard preview"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 More Projects
+
+Explore my other software engineering and data analytics projects.
+
+<a href="https://github.com/Nick-0-7?tab=repositories">🔎 Browse All Repositories</a>
+
+</td>
 </tr>
 </table>
 
