@@ -116,7 +116,13 @@ Build consistency with daily habit tracking, streaks, and progress visualization
 
 **Tech:** HTML • CSS • JavaScript • Chart.js
 
-<a href="https://github.com/Nick-0-7/Habit-Tracker">💻 GitHub</a> · <a href="https://habit-tracker-127a9.firebaseapp.com/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/Habit-Tracker">GitHub</a> · 🌐 <a href="https://habit-tracker-127a9.firebaseapp.com/">Live Demo</a>
+
+<br>
+
+<a href="https://habit-tracker-127a9.firebaseapp.com/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://habit-tracker-127a9.firebaseapp.com/" width="100%" alt="Habit Tracker Preview">
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -127,10 +133,17 @@ A hyperlocal marketplace connecting buyers and sellers through product listings 
 
 **Tech:** HTML • CSS • JavaScript • Firebase
 
-<a href="https://github.com/Nick-0-7/Local_Mart">💻 GitHub</a> · <a href="https://local-mart-liard.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/Local_Mart">GitHub</a> · 🌐 <a href="https://local-mart-liard.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://local-mart-liard.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://local-mart-liard.vercel.app/" width="100%" alt="LocalMart Preview">
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -140,7 +153,13 @@ A web application for following LeetCode practice and coding progress.
 
 **Tech:** Web Development
 
-<a href="https://github.com/Nick-0-7/Leetcode-Tracker">💻 GitHub</a> · <a href="https://leetcode-tracker-bice.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/Leetcode-Tracker">GitHub</a> · 🌐 <a href="https://leetcode-tracker-bice.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://leetcode-tracker-bice.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://leetcode-tracker-bice.vercel.app/" width="100%" alt="LeetCode Tracker Preview">
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -151,10 +170,17 @@ An attendance-focused application for managing attendance workflows.
 
 **Tech:** JavaScript • Web Development
 
-<a href="https://github.com/Nick-0-7/AttenX">💻 GitHub</a> · <a href="https://atten-x-ten.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/AttenX">GitHub</a> · 🌐 <a href="https://atten-x-ten.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://atten-x-ten.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://atten-x-ten.vercel.app/" width="100%" alt="AttenX Preview">
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -164,7 +190,13 @@ A campus knowledge assistant with document-grounded answers and source citations
 
 **Tech:** React • Node.js • Express • RAG
 
-<a href="https://github.com/Nick-0-7/campusAI">💻 GitHub</a> · <a href="https://campus-ai-eta-bice.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/campusAI">GitHub</a> · 🌐 <a href="https://campus-ai-eta-bice.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://campus-ai-eta-bice.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://campus-ai-eta-bice.vercel.app/" width="100%" alt="Campus AI Preview">
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -175,10 +207,17 @@ A deep-learning application for classifying diabetic retinopathy severity.
 
 **Tech:** React • Python • FastAPI • Deep Learning
 
-<a href="https://github.com/Nick-0-7/retina-screening">💻 GitHub</a> · <a href="https://retina-screening.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/retina-screening">GitHub</a> · 🌐 <a href="https://retina-screening.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://retina-screening.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://retina-screening.vercel.app/" width="100%" alt="Retina Screening Preview">
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -188,20 +227,28 @@ An electric-vehicle dashboard for presenting EV and battery-related metrics.
 
 **Tech:** JavaScript • Web Dashboard
 
-<a href="https://github.com/Nick-0-7/EV-Dashboard">💻 GitHub</a> · <a href="https://ev-dashboard-smoky.vercel.app/">🌐 Live Demo</a>
+💻 <a href="https://github.com/Nick-0-7/EV-Dashboard">GitHub</a> · 🌐 <a href="https://ev-dashboard-smoky.vercel.app/">Live Demo</a>
+
+<br>
+
+<a href="https://ev-dashboard-smoky.vercel.app/" target="_blank">
+<img src="https://image.thum.io/get/width/900/crop/550/noanimate/https://ev-dashboard-smoky.vercel.app/" width="100%" alt="EV Dashboard Preview">
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Explore More
+### 🌐 More Projects
 
-Explore my complete collection of projects and engineering work.
+Explore my other software engineering and data analytics projects.
 
-<a href="https://github.com/Nick-0-7?tab=repositories">Explore GitHub Repositories</a>
+💻 <a href="https://github.com/Nick-0-7?tab=repositories">Browse All Repositories</a>
 
 </td>
 </tr>
 </table>
+
+---
 
 ## 🧠 Problem Solving
 
