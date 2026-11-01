@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  574
+  576
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  653
+  655
 </text>
 
 
@@ -259,42 +259,42 @@
 
 <rect x="50"
       y="360"
-      width="394.6437810880379"
+      width="389.6679297489416"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="444.6437810880379"
+<rect x="439.6679297489416"
       y="360"
-      width="195.43889026574837"
+      width="201.46407352888298"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="640.0826713537863"
+<rect x="641.1320032778247"
       y="360"
-      width="99.11252347907754"
+      width="97.86286693738592"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="739.1951948328638"
+<rect x="738.9948702152105"
       y="360"
-      width="64.29503526209606"
+      width="64.00483838682516"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="803.4902300949598"
+<rect x="802.9997086020358"
       y="360"
-      width="53.55509648161676"
+      width="52.879849052634626"
       height="12"
       fill="#1572B6"/>
 
 
-<rect x="857.0453265765765"
+<rect x="855.8795576546704"
       y="360"
-      width="23.781425006087165"
+      width="23.48157779923163"
       height="12"
       fill="#A78BFA"/>
 
@@ -309,7 +309,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 46.4%
+  JavaScript 45.8%
 </text>
 
 
@@ -323,7 +323,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Kotlin 23.0%
+  Kotlin 23.7%
 </text>
 
 
@@ -337,7 +337,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 11.7%
+  HTML 11.5%
 </text>
 
 
@@ -351,7 +351,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Python 7.6%
+  Python 7.5%
 </text>
 
 
@@ -365,7 +365,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  CSS 6.3%
+  CSS 6.2%
 </text>
 
 
