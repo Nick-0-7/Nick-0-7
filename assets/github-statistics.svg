@@ -70,7 +70,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  576
+  579
 </text>
 
 
@@ -103,7 +103,7 @@
       font-family="Arial, Helvetica, sans-serif"
       font-size="24"
       font-weight="700">
-  655
+  658
 </text>
 
 
@@ -259,42 +259,42 @@
 
 <rect x="50"
       y="360"
-      width="389.6679297489416"
+      width="386.229972266223"
       height="12"
       fill="#3178C6"/>
 
 
-<rect x="439.6679297489416"
+<rect x="436.229972266223"
       y="360"
-      width="201.46407352888298"
+      width="207.16788349898775"
       height="12"
       fill="#F7DF1E"/>
 
 
-<rect x="641.1320032778247"
+<rect x="643.3978557652108"
       y="360"
-      width="97.86286693738592"
+      width="96.9994436223483"
       height="12"
       fill="#E34F26"/>
 
 
-<rect x="738.9948702152105"
+<rect x="740.3972993875591"
       y="360"
-      width="64.00483838682516"
+      width="63.458222208510776"
       height="12"
       fill="#3776AB"/>
 
 
-<rect x="802.9997086020358"
+<rect x="803.8555215960698"
       y="360"
-      width="52.879849052634626"
+      width="52.413301362008234"
       height="12"
       fill="#1572B6"/>
 
 
-<rect x="855.8795576546704"
+<rect x="856.2688229580781"
       y="360"
-      width="23.48157779923163"
+      width="23.27440481952832"
       height="12"
       fill="#A78BFA"/>
 
@@ -309,7 +309,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  JavaScript 45.8%
+  JavaScript 45.4%
 </text>
 
 
@@ -323,7 +323,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Kotlin 23.7%
+  Kotlin 24.4%
 </text>
 
 
@@ -337,7 +337,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  HTML 11.5%
+  HTML 11.4%
 </text>
 
 
@@ -379,7 +379,7 @@
       fill="#dce7f2"
       font-family="Arial, Helvetica, sans-serif"
       font-size="10">
-  Java 2.8%
+  Java 2.7%
 </text>
 
 
